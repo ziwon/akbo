@@ -86,6 +86,7 @@ def main():
             "composer": info.get("composer", ""),
             "note": info.get("note", ""),
             "tags": info.get("tags", []),
+            "youtube": info.get("youtube", []),
             "incomplete": meta.get("incomplete", {}).get(pid, ""),
             "cover": {"src": f"scores/{pid}/cover.webp", "w": cw, "h": ch},
             "pages": pages,

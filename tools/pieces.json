@@ -7,7 +7,20 @@
       "title": "50 Năm Về Sau",
       "composer": "Đặng Thanh Tuyền",
       "note": "피아노 편곡: Hoài Nam",
-      "tags": ["Pop", "V-Pop"]
+      "tags": [
+        "Pop",
+        "V-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "ary1A6UZtxE",
+          "label": "원곡 MV"
+        },
+        {
+          "id": "82XDDq20UaE",
+          "label": "Lo-fi 커버"
+        }
+      ]
     },
     {
       "dir": "Always With Me (Spirited Away OST)",
@@ -15,7 +28,16 @@
       "title": "Always With Me / いつも何度でも",
       "composer": "Youmi Kimura — 센과 치히로의 행방불명 OST",
       "note": "",
-      "tags": ["OST", "Anime"]
+      "tags": [
+        "OST",
+        "Anime"
+      ],
+      "youtube": [
+        {
+          "id": "HnixYctruHg",
+          "label": "木村弓 원곡"
+        }
+      ]
     },
     {
       "dir": "Atlantis (Imperio, arr. Loginvovchyk)",
@@ -23,7 +45,16 @@
       "title": "Atlantis",
       "composer": "Imperio",
       "note": "편곡: Loginvovchyk",
-      "tags": ["Pop", "Electronic"]
+      "tags": [
+        "Pop",
+        "Electronic"
+      ],
+      "youtube": [
+        {
+          "id": "4giqPGykiEY",
+          "label": "원곡 MV"
+        }
+      ]
     },
     {
       "dir": "Beanie (Chezile, arr. crimsonnote)",
@@ -31,7 +62,15 @@
       "title": "Beanie",
       "composer": "Chezile",
       "note": "편곡: crimsonnote",
-      "tags": ["Pop"]
+      "tags": [
+        "Pop"
+      ],
+      "youtube": [
+        {
+          "id": "tERTBPdVivc",
+          "label": "공식 음원"
+        }
+      ]
     },
     {
       "dir": "Beautiful In White & Canon In D",
@@ -39,7 +78,17 @@
       "title": "Beautiful In White & Canon In D",
       "composer": "Shane Filan / Pachelbel — 메들리",
       "note": "편곡: Vũ Ca",
-      "tags": ["Pop", "Wedding", "Medley"]
+      "tags": [
+        "Pop",
+        "Wedding",
+        "Medley"
+      ],
+      "youtube": [
+        {
+          "id": "06-XXOTP3Gc",
+          "label": "Shane Filan 원곡"
+        }
+      ]
     },
     {
       "dir": "Comptine d'un Autre Ete (Yann Tiersen)",
@@ -47,7 +96,20 @@
       "title": "Comptine d'un autre été — L'après-midi",
       "composer": "Yann Tiersen",
       "note": "편곡: Isaac Torres · 영화 《아멜리에》",
-      "tags": ["OST", "Modern"]
+      "tags": [
+        "OST",
+        "Modern"
+      ],
+      "youtube": [
+        {
+          "id": "znfYwABeSZ0",
+          "label": "Yann Tiersen 원곡"
+        },
+        {
+          "id": "PaXKf0JEzEA",
+          "label": "Rousseau"
+        }
+      ]
     },
     {
       "dir": "Congratulations (Mac Miller, HDpiano)",
@@ -55,7 +117,16 @@
       "title": "Congratulations",
       "composer": "Mac Miller",
       "note": "HDpiano 편곡 · 코드네임 표기",
-      "tags": ["Pop", "Hip-hop"]
+      "tags": [
+        "Pop",
+        "Hip-hop"
+      ],
+      "youtube": [
+        {
+          "id": "JoFkQ7iAQcw",
+          "label": "Mac Miller 원곡"
+        }
+      ]
     },
     {
       "dir": "Dance of the Little Swans (Swan Lake)",
@@ -63,7 +134,16 @@
       "title": "네 마리 백조의 춤 (백조의 호수)",
       "composer": "P. I. Tchaikovsky",
       "note": "편곡: Hinci",
-      "tags": ["Classical", "Ballet"]
+      "tags": [
+        "Classical",
+        "Ballet"
+      ],
+      "youtube": [
+        {
+          "id": "Xd2nTXsivHs",
+          "label": "발레 원곡"
+        }
+      ]
     },
     {
       "dir": "Dao Buoc HongKong 1999",
@@ -71,7 +151,16 @@
       "title": "Dạo Bước HongKong 1999 / 漫步香港1999",
       "composer": "—",
       "note": "피아노 편곡: HoaG",
-      "tags": ["Pop", "C-Pop"]
+      "tags": [
+        "Pop",
+        "C-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "d2MB9LXeNm8",
+          "label": "피아노 연주"
+        }
+      ]
     },
     {
       "dir": "Feeling Good (Muse)",
@@ -79,7 +168,16 @@
       "title": "Feeling Good",
       "composer": "Muse",
       "note": "",
-      "tags": ["Rock", "Pop"]
+      "tags": [
+        "Rock",
+        "Pop"
+      ],
+      "youtube": [
+        {
+          "id": "CmwRQqJsegw",
+          "label": "Muse 원곡"
+        }
+      ]
     },
     {
       "dir": "Idea 15 (Gibran Alcocer)",
@@ -87,7 +185,15 @@
       "title": "Idea 15",
       "composer": "Gibran Alcocer",
       "note": "",
-      "tags": ["Modern"]
+      "tags": [
+        "Modern"
+      ],
+      "youtube": [
+        {
+          "id": "hyUct2htiNk",
+          "label": "원곡"
+        }
+      ]
     },
     {
       "dir": "La Maritza",
@@ -95,7 +201,15 @@
       "title": "La Maritza",
       "composer": "Sylvie Vartan",
       "note": "",
-      "tags": ["Chanson"]
+      "tags": [
+        "Chanson"
+      ],
+      "youtube": [
+        {
+          "id": "hyL3ofoiJ_c",
+          "label": "Sylvie Vartan 원곡"
+        }
+      ]
     },
     {
       "dir": "La Tartine de Beurre (Mozart, KV Anh.284n)",
@@ -103,7 +217,19 @@
       "title": "La tartine de beurre (Das Butterbrot), KV Anh. 284n",
       "composer": "W. A. Mozart (전칭)",
       "note": "한 손가락 왈츠",
-      "tags": ["Classical"]
+      "tags": [
+        "Classical"
+      ],
+      "youtube": [
+        {
+          "id": "FOyYWkR3f-M",
+          "label": "피아노 연주"
+        },
+        {
+          "id": "iA1NAVzRqJA",
+          "label": "Katsaris"
+        }
+      ]
     },
     {
       "dir": "Little Things (beginner piano)",
@@ -111,7 +237,16 @@
       "title": "Little Things",
       "composer": "ANBR — Adrián Berenguer",
       "note": "편곡: Miguel Ribeiro · 초급용",
-      "tags": ["Modern", "Beginner"]
+      "tags": [
+        "Modern",
+        "Beginner"
+      ],
+      "youtube": [
+        {
+          "id": "Go5cLeiWyP8",
+          "label": "ANBR 원곡"
+        }
+      ]
     },
     {
       "dir": "Menuett g-Moll (Handel, arr. Kempff)",
@@ -119,7 +254,20 @@
       "title": "Menuett g-moll (바로크·로코코 음악 Nr. 13)",
       "composer": "G. F. Händel",
       "note": "편곡: Wilhelm Kempff",
-      "tags": ["Classical", "Baroque"]
+      "tags": [
+        "Classical",
+        "Baroque"
+      ],
+      "youtube": [
+        {
+          "id": "5ctnesYYicM",
+          "label": "조성진"
+        },
+        {
+          "id": "5VMMwcnSu0E",
+          "label": "Kempff 본인 연주"
+        }
+      ]
     },
     {
       "dir": "Noctilune No.1 (C. Constantini)",
@@ -127,7 +275,15 @@
       "title": "Noctilune No.1",
       "composer": "C. Constantini",
       "note": "간이 편곡판",
-      "tags": ["Modern"]
+      "tags": [
+        "Modern"
+      ],
+      "youtube": [
+        {
+          "id": "D3VAYHNz5AY",
+          "label": "작곡가 연주 (피아노 솔로)"
+        }
+      ]
     },
     {
       "dir": "Nocturne Op.9 No.1 (Chopin)",
@@ -135,7 +291,20 @@
       "title": "Nocturne in B♭ minor, Op. 9 No. 1",
       "composer": "Frédéric Chopin",
       "note": "Rafael Joseffy 교정판",
-      "tags": ["Classical", "Romantic"]
+      "tags": [
+        "Classical",
+        "Romantic"
+      ],
+      "youtube": [
+        {
+          "id": "ZtIW2r1EalM",
+          "label": "Rubinstein"
+        },
+        {
+          "id": "2bvg232HOn8",
+          "label": "악보 영상"
+        }
+      ]
     },
     {
       "dir": "Nu Pogodi - The Urn",
@@ -143,7 +312,15 @@
       "title": "Ну, погоди! — The Urn",
       "composer": "Unknown",
       "note": "1화 배경음악",
-      "tags": ["OST"]
+      "tags": [
+        "OST"
+      ],
+      "youtube": [
+        {
+          "id": "Td1xNSCkHfE",
+          "label": "원곡"
+        }
+      ]
     },
     {
       "dir": "Once Upon a December (Anastasia)",
@@ -151,7 +328,16 @@
       "title": "Once Upon a December",
       "composer": "Stephen Flaherty — 《아나스타샤》",
       "note": "편곡: Slava Makovsky",
-      "tags": ["OST", "Musical"]
+      "tags": [
+        "OST",
+        "Musical"
+      ],
+      "youtube": [
+        {
+          "id": "koWKsgOSs1w",
+          "label": "Liz Callaway 원곡"
+        }
+      ]
     },
     {
       "dir": "Op.76 No.2 (Sibelius)",
@@ -159,7 +345,20 @@
       "title": "13 Pieces, Op. 76 — No. 2 Étude",
       "composer": "Jean Sibelius",
       "note": "",
-      "tags": ["Classical", "Romantic"]
+      "tags": [
+        "Classical",
+        "Romantic"
+      ],
+      "youtube": [
+        {
+          "id": "c2fx2l-y08g",
+          "label": "랑랑"
+        },
+        {
+          "id": "yYVukhxZ0xY",
+          "label": "Paul Barton"
+        }
+      ]
     },
     {
       "dir": "Passacaglia (Handel, arr. Johan Halvorsen)",
@@ -167,7 +366,20 @@
       "title": "Passacaglia",
       "composer": "G. F. Handel, arr. Johan Halvorsen",
       "note": "정식 편곡판",
-      "tags": ["Classical", "Baroque"]
+      "tags": [
+        "Classical",
+        "Baroque"
+      ],
+      "youtube": [
+        {
+          "id": "GAIZxaToV2A",
+          "label": "피아노 솔로"
+        },
+        {
+          "id": "ApCL2GomTD4",
+          "label": "다른 연주"
+        }
+      ]
     },
     {
       "dir": "Passacaglia (chord-symbol version)",
@@ -175,7 +387,16 @@
       "title": "Passacaglia (코드네임판)",
       "composer": "G. F. Handel, arr. Halvorsen",
       "note": "코드 심볼이 붙은 다른 판본",
-      "tags": ["Classical", "Baroque"]
+      "tags": [
+        "Classical",
+        "Baroque"
+      ],
+      "youtube": [
+        {
+          "id": "GAIZxaToV2A",
+          "label": "피아노 솔로"
+        }
+      ]
     },
     {
       "dir": "Por una Cabeza (Gardel)",
@@ -183,7 +404,15 @@
       "title": "Por una Cabeza",
       "composer": "Carlos Gardel (1935)",
       "note": "",
-      "tags": ["Tango"]
+      "tags": [
+        "Tango"
+      ],
+      "youtube": [
+        {
+          "id": "SJ1aTPM-dyE",
+          "label": "Gardel 원곡 (1935)"
+        }
+      ]
     },
     {
       "dir": "Por una Cabeza (Gardel) - alt edition",
@@ -191,7 +420,15 @@
       "title": "Por una Cabeza (다른 판본)",
       "composer": "Carlos Gardel (1935)",
       "note": "페이지 나눔이 다른 별개 판본",
-      "tags": ["Tango"]
+      "tags": [
+        "Tango"
+      ],
+      "youtube": [
+        {
+          "id": "SJ1aTPM-dyE",
+          "label": "Gardel 원곡 (1935)"
+        }
+      ]
     },
     {
       "dir": "Prelude in E Minor Op.28 No.4 (Chopin)",
@@ -199,7 +436,20 @@
       "title": "Prélude in E minor, Op. 28 No. 4",
       "composer": "Frédéric Chopin",
       "note": "1페이지 완곡 · 같은 악보 2장 보관",
-      "tags": ["Classical", "Romantic"]
+      "tags": [
+        "Classical",
+        "Romantic"
+      ],
+      "youtube": [
+        {
+          "id": "CU9RgI9j7Do",
+          "label": "Rousseau"
+        },
+        {
+          "id": "R-ESEyc9-pI",
+          "label": "조성진"
+        }
+      ]
     },
     {
       "dir": "Reason (Yiruma)",
@@ -207,7 +457,20 @@
       "title": "Reason",
       "composer": "이루마 (Yiruma)",
       "note": "",
-      "tags": ["Modern", "New Age"]
+      "tags": [
+        "Modern",
+        "New Age"
+      ],
+      "youtube": [
+        {
+          "id": "zUeNW_h_toU",
+          "label": "피아노 연주"
+        },
+        {
+          "id": "-NrMibvlNrU",
+          "label": "이루마"
+        }
+      ]
     },
     {
       "dir": "Sayonara no Natsu - Summer of Goodbye",
@@ -215,7 +478,16 @@
       "title": "さよならの夏 — Summer of Goodbye",
       "composer": "Koichi Sakata — 《코쿠리코 언덕에서》",
       "note": "",
-      "tags": ["OST", "Anime"]
+      "tags": [
+        "OST",
+        "Anime"
+      ],
+      "youtube": [
+        {
+          "id": "TA-cfz9P3gY",
+          "label": "手嶌葵 원곡"
+        }
+      ]
     },
     {
       "dir": "Secret (Jay Chou) - piano duet",
@@ -223,7 +495,16 @@
       "title": "Secret — 피아노 배틀 (연탄)",
       "composer": "周杰倫 Jay Chou",
       "note": "피아노 2대 악보",
-      "tags": ["OST", "Duet"]
+      "tags": [
+        "OST",
+        "Duet"
+      ],
+      "youtube": [
+        {
+          "id": "NNUzJ2rhw2k",
+          "label": "영화 피아노 배틀 장면"
+        }
+      ]
     },
     {
       "dir": "Secret (Jay Chou) - solo",
@@ -231,7 +512,15 @@
       "title": "Secret — 솔로",
       "composer": "周杰倫 Jay Chou",
       "note": "",
-      "tags": ["OST"]
+      "tags": [
+        "OST"
+      ],
+      "youtube": [
+        {
+          "id": "x6vV67uefeM",
+          "label": "피아노 솔로"
+        }
+      ]
     },
     {
       "dir": "Tada Koe Hitotsu (Rokudenashi)",
@@ -239,15 +528,36 @@
       "title": "ただ声一つ",
       "composer": "ロクデナシ (Rokudenashi)",
       "note": "",
-      "tags": ["J-Pop", "Vocaloid"]
+      "tags": [
+        "J-Pop",
+        "Vocaloid"
+      ],
+      "youtube": [
+        {
+          "id": "5GUaMOpfmr8",
+          "label": "ロクデナシ 원곡"
+        }
+      ]
     },
     {
       "dir": "The Magic of Love",
       "id": "the-magic-of-love",
-      "title": "The Magic of Love",
-      "composer": "—",
+      "title": "The Magic of Love / 愛的魔法",
+      "composer": "金莎 (Kym Jin Sha)",
       "note": "",
-      "tags": ["Pop"]
+      "tags": [
+        "Pop"
+      ],
+      "youtube": [
+        {
+          "id": "szCfUFqdzKs",
+          "label": "피아노 연주"
+        },
+        {
+          "id": "K6-uylBd3Gg",
+          "label": "피아노 연주"
+        }
+      ]
     },
     {
       "dir": "The Seasons Op.37a No.6 June Barcarolle",
@@ -255,15 +565,41 @@
       "title": "사계 Op. 37a — 6월 〈뱃노래〉",
       "composer": "P. I. Tchaikovsky",
       "note": "",
-      "tags": ["Classical", "Romantic"]
+      "tags": [
+        "Classical",
+        "Romantic"
+      ],
+      "youtube": [
+        {
+          "id": "V2q95tZuaE0",
+          "label": "임윤찬"
+        },
+        {
+          "id": "pDisuAu2UvM",
+          "label": "Bruce Liu"
+        }
+      ]
     },
     {
       "dir": "Tiec Tra Sao (Xing Cha Hui)",
       "id": "tiec-tra-sao",
       "title": "Tiệc Trà Sao / 星茶会",
-      "composer": "—",
+      "composer": "灰澈 (huiche)",
       "note": "",
-      "tags": ["Pop", "C-Pop"]
+      "tags": [
+        "Pop",
+        "C-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "Ycc7ZW27VEY",
+          "label": "灰澈 원곡"
+        },
+        {
+          "id": "O_iVj5gBqF8",
+          "label": "피아노 연주"
+        }
+      ]
     },
     {
       "dir": "Time Travel Theme (Secret 2007, Jay Chou)",
@@ -271,15 +607,31 @@
       "title": "Time Travel Theme",
       "composer": "周杰倫 Jay Chou — 영화 《말할 수 없는 비밀》(2007)",
       "note": "",
-      "tags": ["OST"]
+      "tags": [
+        "OST"
+      ],
+      "youtube": [
+        {
+          "id": "HtT_F5IQUEY",
+          "label": "피아노 연주"
+        }
+      ]
     },
     {
       "dir": "Track in Time",
       "id": "track-in-time",
       "title": "Track in Time",
-      "composer": "—",
+      "composer": "Dennis Kuo",
       "note": "",
-      "tags": ["Pop"]
+      "tags": [
+        "Pop"
+      ],
+      "youtube": [
+        {
+          "id": "DRucizIaAGc",
+          "label": "Dennis Kuo 원곡"
+        }
+      ]
     },
     {
       "dir": "Waltz No.2 (Shostakovich)",
@@ -287,7 +639,16 @@
       "title": "Waltz No. 2 (재즈 모음곡 제2번)",
       "composer": "Dmitri Shostakovich",
       "note": "같은 악보 2벌 보관 (p1_a/p1_b …)",
-      "tags": ["Classical", "20C"]
+      "tags": [
+        "Classical",
+        "20C"
+      ],
+      "youtube": [
+        {
+          "id": "mmCnQDUSO4I",
+          "label": "관현악 원곡"
+        }
+      ]
     },
     {
       "dir": "Waltz in A Minor B.150 (Chopin)",
@@ -295,7 +656,20 @@
       "title": "Waltz in A minor, B. 150",
       "composer": "Frédéric Chopin",
       "note": "",
-      "tags": ["Classical", "Romantic"]
+      "tags": [
+        "Classical",
+        "Romantic"
+      ],
+      "youtube": [
+        {
+          "id": "eN5z1mu6j4M",
+          "label": "악보 영상"
+        },
+        {
+          "id": "7BSseiHft7E",
+          "label": "Bruce Liu"
+        }
+      ]
     },
     {
       "dir": "Waltz in Ab Major Op.69 No.1 (Chopin)",
@@ -303,7 +677,16 @@
       "title": "Waltz in A♭ major, Op. 69 No. 1 〈이별〉",
       "composer": "Frédéric Chopin",
       "note": "",
-      "tags": ["Classical", "Romantic"]
+      "tags": [
+        "Classical",
+        "Romantic"
+      ],
+      "youtube": [
+        {
+          "id": "hlzF_jLZOL4",
+          "label": "Rubinstein"
+        }
+      ]
     },
     {
       "dir": "Yesterday Once More (The Carpenters)",
@@ -311,7 +694,16 @@
       "title": "Yesterday Once More",
       "composer": "The Carpenters",
       "note": "가사 포함",
-      "tags": ["Pop", "Oldies"]
+      "tags": [
+        "Pop",
+        "Oldies"
+      ],
+      "youtube": [
+        {
+          "id": "YTaWayUE5XA",
+          "label": "Carpenters 원곡"
+        }
+      ]
     }
   ],
   "incomplete": {

@@ -13,3 +13,6 @@ site/version.json
 
 .DS_Store
 node_modules/
+
+# yt_search.py 결과 (재생성 가능)
+tools/yt_candidates.json
