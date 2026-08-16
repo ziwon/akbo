@@ -1,0 +1,321 @@
+{
+  "_comment": "곡 메타데이터. dir = data/ 아래 폴더명(원본), id = URL 슬러그(고정). 제목/작곡가만 고치면 사이트에 바로 반영됩니다.",
+  "pieces": [
+    {
+      "dir": "50 Nam Ve Sau (Dang Thanh Tuyen)",
+      "id": "50-nam-ve-sau",
+      "title": "50 Năm Về Sau",
+      "composer": "Đặng Thanh Tuyền",
+      "note": "피아노 편곡: Hoài Nam",
+      "tags": ["Pop", "V-Pop"]
+    },
+    {
+      "dir": "Always With Me (Spirited Away OST)",
+      "id": "always-with-me",
+      "title": "Always With Me / いつも何度でも",
+      "composer": "Youmi Kimura — 센과 치히로의 행방불명 OST",
+      "note": "",
+      "tags": ["OST", "Anime"]
+    },
+    {
+      "dir": "Atlantis (Imperio, arr. Loginvovchyk)",
+      "id": "atlantis",
+      "title": "Atlantis",
+      "composer": "Imperio",
+      "note": "편곡: Loginvovchyk",
+      "tags": ["Pop", "Electronic"]
+    },
+    {
+      "dir": "Beanie (Chezile, arr. crimsonnote)",
+      "id": "beanie",
+      "title": "Beanie",
+      "composer": "Chezile",
+      "note": "편곡: crimsonnote",
+      "tags": ["Pop"]
+    },
+    {
+      "dir": "Beautiful In White & Canon In D",
+      "id": "beautiful-in-white-canon-in-d",
+      "title": "Beautiful In White & Canon In D",
+      "composer": "Shane Filan / Pachelbel — 메들리",
+      "note": "편곡: Vũ Ca",
+      "tags": ["Pop", "Wedding", "Medley"]
+    },
+    {
+      "dir": "Comptine d'un Autre Ete (Yann Tiersen)",
+      "id": "comptine-dun-autre-ete",
+      "title": "Comptine d'un autre été — L'après-midi",
+      "composer": "Yann Tiersen",
+      "note": "편곡: Isaac Torres · 영화 《아멜리에》",
+      "tags": ["OST", "Modern"]
+    },
+    {
+      "dir": "Congratulations (Mac Miller, HDpiano)",
+      "id": "congratulations",
+      "title": "Congratulations",
+      "composer": "Mac Miller",
+      "note": "HDpiano 편곡 · 코드네임 표기",
+      "tags": ["Pop", "Hip-hop"]
+    },
+    {
+      "dir": "Dance of the Little Swans (Swan Lake)",
+      "id": "dance-of-the-little-swans",
+      "title": "네 마리 백조의 춤 (백조의 호수)",
+      "composer": "P. I. Tchaikovsky",
+      "note": "편곡: Hinci",
+      "tags": ["Classical", "Ballet"]
+    },
+    {
+      "dir": "Dao Buoc HongKong 1999",
+      "id": "dao-buoc-hongkong-1999",
+      "title": "Dạo Bước HongKong 1999 / 漫步香港1999",
+      "composer": "—",
+      "note": "피아노 편곡: HoaG",
+      "tags": ["Pop", "C-Pop"]
+    },
+    {
+      "dir": "Feeling Good (Muse)",
+      "id": "feeling-good",
+      "title": "Feeling Good",
+      "composer": "Muse",
+      "note": "",
+      "tags": ["Rock", "Pop"]
+    },
+    {
+      "dir": "Idea 15 (Gibran Alcocer)",
+      "id": "idea-15",
+      "title": "Idea 15",
+      "composer": "Gibran Alcocer",
+      "note": "",
+      "tags": ["Modern"]
+    },
+    {
+      "dir": "La Maritza",
+      "id": "la-maritza",
+      "title": "La Maritza",
+      "composer": "Sylvie Vartan",
+      "note": "",
+      "tags": ["Chanson"]
+    },
+    {
+      "dir": "La Tartine de Beurre (Mozart, KV Anh.284n)",
+      "id": "la-tartine-de-beurre",
+      "title": "La tartine de beurre (Das Butterbrot), KV Anh. 284n",
+      "composer": "W. A. Mozart (전칭)",
+      "note": "한 손가락 왈츠",
+      "tags": ["Classical"]
+    },
+    {
+      "dir": "Little Things (beginner piano)",
+      "id": "little-things",
+      "title": "Little Things",
+      "composer": "ANBR — Adrián Berenguer",
+      "note": "편곡: Miguel Ribeiro · 초급용",
+      "tags": ["Modern", "Beginner"]
+    },
+    {
+      "dir": "Menuett g-Moll (Handel, arr. Kempff)",
+      "id": "menuett-g-moll",
+      "title": "Menuett g-moll (바로크·로코코 음악 Nr. 13)",
+      "composer": "G. F. Händel",
+      "note": "편곡: Wilhelm Kempff",
+      "tags": ["Classical", "Baroque"]
+    },
+    {
+      "dir": "Noctilune No.1 (C. Constantini)",
+      "id": "noctilune-no-1",
+      "title": "Noctilune No.1",
+      "composer": "C. Constantini",
+      "note": "간이 편곡판",
+      "tags": ["Modern"]
+    },
+    {
+      "dir": "Nocturne Op.9 No.1 (Chopin)",
+      "id": "chopin-nocturne-op9-no1",
+      "title": "Nocturne in B♭ minor, Op. 9 No. 1",
+      "composer": "Frédéric Chopin",
+      "note": "Rafael Joseffy 교정판",
+      "tags": ["Classical", "Romantic"]
+    },
+    {
+      "dir": "Nu Pogodi - The Urn",
+      "id": "nu-pogodi-the-urn",
+      "title": "Ну, погоди! — The Urn",
+      "composer": "Unknown",
+      "note": "1화 배경음악",
+      "tags": ["OST"]
+    },
+    {
+      "dir": "Once Upon a December (Anastasia)",
+      "id": "once-upon-a-december",
+      "title": "Once Upon a December",
+      "composer": "Stephen Flaherty — 《아나스타샤》",
+      "note": "편곡: Slava Makovsky",
+      "tags": ["OST", "Musical"]
+    },
+    {
+      "dir": "Op.76 No.2 (Sibelius)",
+      "id": "sibelius-op76-no2",
+      "title": "13 Pieces, Op. 76 — No. 2 Étude",
+      "composer": "Jean Sibelius",
+      "note": "",
+      "tags": ["Classical", "Romantic"]
+    },
+    {
+      "dir": "Passacaglia (Handel, arr. Johan Halvorsen)",
+      "id": "passacaglia",
+      "title": "Passacaglia",
+      "composer": "G. F. Handel, arr. Johan Halvorsen",
+      "note": "정식 편곡판",
+      "tags": ["Classical", "Baroque"]
+    },
+    {
+      "dir": "Passacaglia (chord-symbol version)",
+      "id": "passacaglia-chords",
+      "title": "Passacaglia (코드네임판)",
+      "composer": "G. F. Handel, arr. Halvorsen",
+      "note": "코드 심볼이 붙은 다른 판본",
+      "tags": ["Classical", "Baroque"]
+    },
+    {
+      "dir": "Por una Cabeza (Gardel)",
+      "id": "por-una-cabeza",
+      "title": "Por una Cabeza",
+      "composer": "Carlos Gardel (1935)",
+      "note": "",
+      "tags": ["Tango"]
+    },
+    {
+      "dir": "Por una Cabeza (Gardel) - alt edition",
+      "id": "por-una-cabeza-alt",
+      "title": "Por una Cabeza (다른 판본)",
+      "composer": "Carlos Gardel (1935)",
+      "note": "페이지 나눔이 다른 별개 판본",
+      "tags": ["Tango"]
+    },
+    {
+      "dir": "Prelude in E Minor Op.28 No.4 (Chopin)",
+      "id": "chopin-prelude-op28-no4",
+      "title": "Prélude in E minor, Op. 28 No. 4",
+      "composer": "Frédéric Chopin",
+      "note": "1페이지 완곡 · 같은 악보 2장 보관",
+      "tags": ["Classical", "Romantic"]
+    },
+    {
+      "dir": "Reason (Yiruma)",
+      "id": "reason",
+      "title": "Reason",
+      "composer": "이루마 (Yiruma)",
+      "note": "",
+      "tags": ["Modern", "New Age"]
+    },
+    {
+      "dir": "Sayonara no Natsu - Summer of Goodbye",
+      "id": "sayonara-no-natsu",
+      "title": "さよならの夏 — Summer of Goodbye",
+      "composer": "Koichi Sakata — 《코쿠리코 언덕에서》",
+      "note": "",
+      "tags": ["OST", "Anime"]
+    },
+    {
+      "dir": "Secret (Jay Chou) - piano duet",
+      "id": "secret-duet",
+      "title": "Secret — 피아노 배틀 (연탄)",
+      "composer": "周杰倫 Jay Chou",
+      "note": "피아노 2대 악보",
+      "tags": ["OST", "Duet"]
+    },
+    {
+      "dir": "Secret (Jay Chou) - solo",
+      "id": "secret-solo",
+      "title": "Secret — 솔로",
+      "composer": "周杰倫 Jay Chou",
+      "note": "",
+      "tags": ["OST"]
+    },
+    {
+      "dir": "Tada Koe Hitotsu (Rokudenashi)",
+      "id": "tada-koe-hitotsu",
+      "title": "ただ声一つ",
+      "composer": "ロクデナシ (Rokudenashi)",
+      "note": "",
+      "tags": ["J-Pop", "Vocaloid"]
+    },
+    {
+      "dir": "The Magic of Love",
+      "id": "the-magic-of-love",
+      "title": "The Magic of Love",
+      "composer": "—",
+      "note": "",
+      "tags": ["Pop"]
+    },
+    {
+      "dir": "The Seasons Op.37a No.6 June Barcarolle",
+      "id": "seasons-june-barcarolle",
+      "title": "사계 Op. 37a — 6월 〈뱃노래〉",
+      "composer": "P. I. Tchaikovsky",
+      "note": "",
+      "tags": ["Classical", "Romantic"]
+    },
+    {
+      "dir": "Tiec Tra Sao (Xing Cha Hui)",
+      "id": "tiec-tra-sao",
+      "title": "Tiệc Trà Sao / 星茶会",
+      "composer": "—",
+      "note": "",
+      "tags": ["Pop", "C-Pop"]
+    },
+    {
+      "dir": "Time Travel Theme (Secret 2007, Jay Chou)",
+      "id": "time-travel-theme",
+      "title": "Time Travel Theme",
+      "composer": "周杰倫 Jay Chou — 영화 《말할 수 없는 비밀》(2007)",
+      "note": "",
+      "tags": ["OST"]
+    },
+    {
+      "dir": "Track in Time",
+      "id": "track-in-time",
+      "title": "Track in Time",
+      "composer": "—",
+      "note": "",
+      "tags": ["Pop"]
+    },
+    {
+      "dir": "Waltz No.2 (Shostakovich)",
+      "id": "shostakovich-waltz-no2",
+      "title": "Waltz No. 2 (재즈 모음곡 제2번)",
+      "composer": "Dmitri Shostakovich",
+      "note": "같은 악보 2벌 보관 (p1_a/p1_b …)",
+      "tags": ["Classical", "20C"]
+    },
+    {
+      "dir": "Waltz in A Minor B.150 (Chopin)",
+      "id": "chopin-waltz-a-minor-b150",
+      "title": "Waltz in A minor, B. 150",
+      "composer": "Frédéric Chopin",
+      "note": "",
+      "tags": ["Classical", "Romantic"]
+    },
+    {
+      "dir": "Waltz in Ab Major Op.69 No.1 (Chopin)",
+      "id": "chopin-waltz-op69-no1",
+      "title": "Waltz in A♭ major, Op. 69 No. 1 〈이별〉",
+      "composer": "Frédéric Chopin",
+      "note": "",
+      "tags": ["Classical", "Romantic"]
+    },
+    {
+      "dir": "Yesterday Once More (The Carpenters)",
+      "id": "yesterday-once-more",
+      "title": "Yesterday Once More",
+      "composer": "The Carpenters",
+      "note": "가사 포함",
+      "tags": ["Pop", "Oldies"]
+    }
+  ],
+  "incomplete": {
+    "nu-pogodi-the-urn": "뒷장 없음 — 1페이지(19마디)에서 끊깁니다",
+    "chopin-waltz-op69-no1": "뒷장 없음 — 5페이지(128마디)에서 끊깁니다"
+  }
+}
