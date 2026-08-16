@@ -98,6 +98,15 @@ function renderGrid() {
     star.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); toggleFav(p.id); star.setAttribute('aria-pressed', String(favs.has(p.id))); });
     thumb.append(star);
 
+    if ((p.youtube || []).length) {
+      const play = document.createElement('button');
+      play.type = 'button'; play.className = 'play';
+      play.setAttribute('aria-label', `${p.title} 참고 음원 듣기`); play.title = '참고 음원 듣기';
+      play.innerHTML = '<svg viewBox="0 0 24 24"><path d="M8 5.5v13l11-6.5Z"/></svg>';
+      play.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); openPlayer(p); });
+      thumb.append(play);
+    }
+
     if (p.incomplete) {
       const pill = document.createElement('span');
       pill.className = 'pill'; pill.textContent = '뒷장 없음'; pill.title = p.incomplete;
@@ -145,6 +154,57 @@ $('q').addEventListener('input', (e) => {
 });
 $('qclear').addEventListener('click', () => { $('q').value = ''; query = ''; $('qclear').hidden = true; renderGrid(); $('q').focus(); });
 
+/* ══════════════ 미니 플레이어 ══════════════
+   목록·뷰어 공용. 곡을 열거나 페이지를 넘겨도 재생이 끊기지 않도록
+   iframe 을 지우지 않고 그대로 둔다. */
+const playerEl = $('player');
+let plPiece = null, plIndex = 0;
+
+function openPlayer(piece, index = 0) {
+  const vids = piece.youtube || [];
+  if (!vids.length) { toast('이 곡은 연결된 참고 음원이 없습니다'); return; }
+  if (navigator.onLine === false) { toast('참고 음원은 인터넷 연결이 필요합니다'); return; }
+
+  // 같은 영상을 다시 누르면 접기/펴기만 (재생 유지)
+  if (plPiece?.id === piece.id && plIndex === index && !playerEl.hidden) {
+    playerEl.classList.toggle('collapsed'); syncCollapse(); return;
+  }
+
+  const changed = plPiece?.id !== piece.id || plIndex !== index;
+  plPiece = piece; plIndex = index;
+  playerEl.hidden = false;
+  playerEl.classList.remove('collapsed'); syncCollapse();
+  $('plTitle').textContent = piece.title;
+
+  const v = vids[index];
+  $('plOpen').href = `https://www.youtube.com/watch?v=${encodeURIComponent(v.id)}`;
+
+  if (changed) {
+    const src = `https://www.youtube-nocookie.com/embed/${encodeURIComponent(v.id)}?rel=0&modestbranding=1&playsinline=1`;
+    $('plFrame').innerHTML =
+      `<iframe src="${src}" title="${piece.title} 참고 음원" loading="lazy" allowfullscreen
+        allow="accelerometer; encrypted-media; picture-in-picture"
+        referrerpolicy="strict-origin-when-cross-origin"></iframe>`;
+  }
+
+  $('plTabs').replaceChildren(...(vids.length > 1 ? vids.map((v, i) => {
+    const b = document.createElement('button');
+    b.type = 'button'; b.textContent = v.label || `영상 ${i + 1}`;
+    b.setAttribute('aria-pressed', String(i === index));
+    b.addEventListener('click', () => openPlayer(piece, i));
+    return b;
+  }) : []));
+}
+
+function closePlayer() {
+  playerEl.hidden = true; $('plFrame').innerHTML = ''; plPiece = null; plIndex = 0;
+}
+function syncCollapse() {
+  $('plCollapse').setAttribute('aria-expanded', String(!playerEl.classList.contains('collapsed')));
+}
+$('plClose').addEventListener('click', closePlayer);
+$('plCollapse').addEventListener('click', () => { playerEl.classList.toggle('collapsed'); syncCollapse(); });
+
 /* ══════════════ 뷰어 ══════════════ */
 const stage = $('stage'), pagesEl = $('pages'), readerEl = $('reader');
 let cur = null;          // 현재 곡
@@ -167,6 +227,7 @@ function openPiece(id, page) {
   $('rTitle').textContent = p.title;
   $('rComposer').textContent = [clean(p.composer), clean(p.note)].filter(Boolean).join(' · ');
   $('favBtn').setAttribute('aria-pressed', String(favs.has(id)));
+  $('listenBtn').hidden = !(p.youtube || []).length;
   $('spreadBtn').setAttribute('aria-pressed', String(spread));
   $('fitBtn').setAttribute('aria-pressed', String(fitWidth));
   $('scrub').max = String(p.pages.length - 1);
@@ -267,6 +328,7 @@ $('nextBtn').addEventListener('click', () => go(1));
 $('backBtn').addEventListener('click', () => { location.hash = '#/'; });
 $('scrub').addEventListener('input', (e) => { idx = Number(e.target.value); renderPages(); showChrome(); });
 $('favBtn').addEventListener('click', (e) => { toggleFav(cur.id); e.currentTarget.setAttribute('aria-pressed', String(favs.has(cur.id))); });
+$('listenBtn').addEventListener('click', () => { openPlayer(cur); showChrome(); });
 $('spreadBtn').addEventListener('click', (e) => {
   spread = !spread; LS.set('spread', spread);
   e.currentTarget.setAttribute('aria-pressed', String(spread));
@@ -317,6 +379,7 @@ addEventListener('keydown', (e) => {
     case 'End': e.preventDefault(); idx = cur.pages.length - 1; renderPages(); showChrome(); break;
     case 'Escape': if (!document.fullscreenElement) location.hash = '#/'; break;
     case 'f': case 'F': $('fsBtn').click(); break;
+    case 'p': case 'P': if (!$('listenBtn').hidden) $('listenBtn').click(); break;
     case 's': case 'S': $('spreadBtn').click(); break;
     case 'w': case 'W': $('fitBtn').click(); break;
     default: break;
