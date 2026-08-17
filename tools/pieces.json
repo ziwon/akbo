@@ -708,34 +708,72 @@
     {
       "dir": "Soranji",
       "id": "soranji",
-      "title": "Soranji",
-      "composer": "Mrs. GREEN APPLE / 大森元貴",
+      "title": "Soranji / それさえも",
+      "composer": "Mrs. GREEN APPLE (大森元貴)",
       "note": "",
-      "tags": []
+      "tags": [
+        "J-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "44cICMd3jW4",
+          "label": "공식 MV"
+        }
+      ]
     },
     {
       "dir": "Love Story (Richard Clayderman)",
       "id": "love-story-richard-clayderman",
-      "title": "Love Story (Richard Clayderman)",
+      "title": "Love Story",
       "composer": "Richard Clayderman",
       "note": "",
-      "tags": []
+      "tags": [
+        "Easy Listening"
+      ],
+      "youtube": [
+        {
+          "id": "NVD4pfoMtE8",
+          "label": "Clayderman 공식"
+        }
+      ]
     },
     {
       "dir": "Bella Ciao",
       "id": "bella-ciao",
       "title": "Bella Ciao",
-      "composer": "La Casa de Papel",
-      "note": "",
-      "tags": []
+      "composer": "Traditional",
+      "note": "넷플릭스 《종이의 집》 삽입곡",
+      "tags": [
+        "Folk",
+        "OST"
+      ],
+      "youtube": [
+        {
+          "id": "4JVaRloezno",
+          "label": "Manu Pilas 원곡"
+        },
+        {
+          "id": "9ao4FEaDGhQ",
+          "label": "《종이의 집》 버전"
+        }
+      ]
     },
     {
       "dir": "A Thousand Years",
       "id": "a-thousand-years",
       "title": "A Thousand Years",
-      "composer": "C.Perri",
-      "note": "",
-      "tags": []
+      "composer": "Christina Perri",
+      "note": "《트와일라잇》 OST",
+      "tags": [
+        "Pop",
+        "OST"
+      ],
+      "youtube": [
+        {
+          "id": "rtOvBOTyX00",
+          "label": "공식 MV"
+        }
+      ]
     },
     {
       "dir": "In the End",
@@ -743,151 +781,337 @@
       "title": "In the End",
       "composer": "Linkin Park",
       "note": "",
-      "tags": []
+      "tags": [
+        "Rock"
+      ],
+      "youtube": [
+        {
+          "id": "eVTXPUF4Oz4",
+          "label": "공식 MV"
+        }
+      ]
     },
     {
       "dir": "Despacito",
       "id": "despacito",
       "title": "Despacito",
       "composer": "Luis Fonsi ft. Daddy Yankee",
-      "note": "",
-      "tags": []
+      "note": "채보: Jorge Vidal",
+      "tags": [
+        "Pop",
+        "Latin"
+      ],
+      "youtube": [
+        {
+          "id": "kJQP7kiw5Fk",
+          "label": "공식 MV"
+        }
+      ]
     },
     {
       "dir": "La Campanella (Liszt)",
       "id": "la-campanella-liszt",
-      "title": "La Campanella (Liszt)",
-      "composer": "리스트",
+      "title": "La Campanella — Grandes Études de Paganini S.141/3",
+      "composer": "Franz Liszt",
       "note": "",
-      "tags": []
+      "tags": [
+        "Classical",
+        "Romantic",
+        "Virtuoso"
+      ],
+      "youtube": [
+        {
+          "id": "H1Dvg2MxQn8",
+          "label": "Rousseau"
+        },
+        {
+          "id": "0FbQZCsYXVg",
+          "label": "Kissin"
+        }
+      ]
     },
     {
       "dir": "Chopin Etude Op.10 No.4",
       "id": "chopin-etude-op-10-no-4",
-      "title": "Chopin Etude Op.10 No.4",
-      "composer": "쇼팽",
+      "title": "Étude Op. 10 No. 4 in C♯ minor 〈Torrent〉",
+      "composer": "Frédéric Chopin",
       "note": "",
-      "tags": []
+      "tags": [
+        "Classical",
+        "Romantic",
+        "Virtuoso"
+      ],
+      "youtube": [
+        {
+          "id": "oHiU-u2ddJ4",
+          "label": "Rousseau"
+        },
+        {
+          "id": "RJcbGmVf41I",
+          "label": "임윤찬"
+        }
+      ]
     },
     {
       "dir": "Chopin Etude Op.25 No.1",
       "id": "chopin-etude-op-25-no-1",
-      "title": "Chopin Etude Op.25 No.1",
-      "composer": "쇼팽",
+      "title": "Étude Op. 25 No. 1 in A♭ major 〈Aeolian Harp〉",
+      "composer": "Frédéric Chopin",
       "note": "",
-      "tags": []
+      "tags": [
+        "Classical",
+        "Romantic"
+      ],
+      "youtube": [
+        {
+          "id": "rrNE9aHJlzw",
+          "label": "임윤찬"
+        },
+        {
+          "id": "7MxFWmr8Wck",
+          "label": "악보 영상"
+        }
+      ]
     },
     {
       "dir": "Waltz of the Flowers (Tchaikovsky)",
       "id": "waltz-of-the-flowers-tchaikovsky",
-      "title": "Waltz of the Flowers (Tchaikovsky)",
-      "composer": "Tchaikovsky",
-      "note": "",
-      "tags": []
+      "title": "꽃의 왈츠 (호두까기 인형)",
+      "composer": "P. I. Tchaikovsky",
+      "note": "Amsco 1934 판",
+      "tags": [
+        "Classical",
+        "Ballet"
+      ],
+      "youtube": [
+        {
+          "id": "Zp1aDnVySf8",
+          "label": "Concertgebouw"
+        },
+        {
+          "id": "LKcZL8q1eBw",
+          "label": "발레"
+        }
+      ]
     },
     {
       "dir": "Perfect (Ed Sheeran)",
       "id": "perfect-ed-sheeran",
-      "title": "Perfect (Ed Sheeran)",
+      "title": "Perfect",
       "composer": "Ed Sheeran",
-      "note": "",
-      "tags": []
+      "note": "편곡: Elaine Kelkel",
+      "tags": [
+        "Pop"
+      ],
+      "youtube": [
+        {
+          "id": "2Vv-BfVoq4g",
+          "label": "공식 MV"
+        }
+      ]
     },
     {
       "dir": "Fly Me To The Moon",
       "id": "fly-me-to-the-moon",
       "title": "Fly Me To The Moon",
       "composer": "Bart Howard",
-      "note": "",
-      "tags": []
+      "note": "편곡: Thomas L.S. Pang · 재즈 오르간용",
+      "tags": [
+        "Jazz",
+        "Standard"
+      ],
+      "youtube": [
+        {
+          "id": "JYuyWrkwpok",
+          "label": "Frank Sinatra"
+        }
+      ]
     },
     {
       "dir": "Someone You Loved",
       "id": "someone-you-loved",
       "title": "Someone You Loved",
-      "composer": "vuca",
-      "note": "",
-      "tags": []
+      "composer": "Lewis Capaldi",
+      "note": "편곡: Vũ Ca",
+      "tags": [
+        "Pop"
+      ],
+      "youtube": [
+        {
+          "id": "zABLecsR5UE",
+          "label": "공식"
+        }
+      ]
     },
     {
       "dir": "Kiss The Rain",
       "id": "kiss-the-rain",
       "title": "Kiss The Rain",
-      "composer": "",
+      "composer": "이루마 (Yiruma)",
       "note": "",
-      "tags": []
+      "tags": [
+        "Modern",
+        "New Age"
+      ],
+      "youtube": [
+        {
+          "id": "imGaOIm5HOk",
+          "label": "이루마 공식"
+        }
+      ]
     },
     {
       "dir": "Beautiful In White (vuca)",
       "id": "beautiful-in-white-vuca",
-      "title": "Beautiful In White (vuca)",
-      "composer": "vuca",
-      "note": "",
-      "tags": []
+      "title": "Beautiful In White",
+      "composer": "Shane Filan",
+      "note": "편곡: Vũ Ca",
+      "tags": [
+        "Pop",
+        "Wedding"
+      ],
+      "youtube": [
+        {
+          "id": "06-XXOTP3Gc",
+          "label": "Shane Filan 원곡"
+        }
+      ]
     },
     {
       "dir": "Eyes Of Love",
       "id": "eyes-of-love",
-      "title": "Eyes Of Love",
-      "composer": "vuca",
-      "note": "",
-      "tags": []
+      "title": "Eyes Of Love (Mauri Direc)",
+      "composer": "—",
+      "note": "편곡: Vũ Ca",
+      "tags": [
+        "Pop"
+      ],
+      "youtube": [
+        {
+          "id": "C-a4WRb1DZI",
+          "label": "Mauri Direc 원곡"
+        }
+      ]
     },
     {
       "dir": "Em (Binz ft. Soobin)",
       "id": "em-binz-ft-soobin",
-      "title": "Em (Binz ft. Soobin)",
-      "composer": "vuca",
-      "note": "",
-      "tags": []
+      "title": "Em",
+      "composer": "Binz ft. Soobin",
+      "note": "편곡: Vũ Ca",
+      "tags": [
+        "V-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "6uVJqD2hSGQ",
+          "label": "공식 음원"
+        }
+      ]
     },
     {
       "dir": "Mariage d'Amour (solfege)",
       "id": "mariage-d-amour-solfege",
-      "title": "Mariage d'Amour (solfege)",
+      "title": "Mariage d'Amour (계이름 13페이지판)",
       "composer": "Paul de Senneville",
-      "note": "",
-      "tags": []
+      "note": "편곡: Toms Mucenieks · 계이름 표기",
+      "tags": [
+        "Easy Listening",
+        "Beginner"
+      ],
+      "youtube": [
+        {
+          "id": "tjC3fjVcDjY",
+          "label": "편곡자 연주"
+        },
+        {
+          "id": "FoCG-WNsZio",
+          "label": "Jacob's Piano"
+        }
+      ]
     },
     {
       "dir": "La Maritza (solfege)",
       "id": "la-maritza-solfege",
-      "title": "La Maritza (solfege)",
-      "composer": "Sylvie Vartan",
-      "note": "",
-      "tags": []
+      "title": "La Maritza (계이름판)",
+      "composer": "Jean Renard",
+      "note": "Sylvie Vartan · 편곡: Sezgin Han",
+      "tags": [
+        "Chanson",
+        "Beginner"
+      ],
+      "youtube": [
+        {
+          "id": "hyL3ofoiJ_c",
+          "label": "Sylvie Vartan 원곡"
+        }
+      ]
     },
     {
       "dir": "Proud of You (solfege)",
       "id": "proud-of-you-solfege",
-      "title": "Proud of You (solfege)",
+      "title": "Proud of You (계이름판)",
       "composer": "Fiona Fung",
       "note": "",
-      "tags": []
+      "tags": [
+        "Pop",
+        "Beginner"
+      ],
+      "youtube": [
+        {
+          "id": "70PPHLsFq7I",
+          "label": "Fiona Fung 원곡"
+        }
+      ]
     },
     {
       "dir": "Windy Hill",
       "id": "windy-hill",
-      "title": "Windy Hill",
-      "composer": "hocpianomoingay",
-      "note": "",
-      "tags": []
+      "title": "Windy Hill / 風の丘",
+      "composer": "Joe Hisaishi",
+      "note": "《마녀 배달부 키키》 · Tiktok: hocpianomoingay",
+      "tags": [
+        "OST",
+        "Anime"
+      ],
+      "youtube": [
+        {
+          "id": "4XJhkQM9Htk",
+          "label": "히사이시 조 風の丘"
+        }
+      ]
     },
     {
       "dir": "He's a Pirate",
       "id": "he-s-a-pirate",
       "title": "He's a Pirate",
-      "composer": "Klaus Badelt/Hans Zimmer",
-      "note": "",
-      "tags": []
+      "composer": "Klaus Badelt / Hans Zimmer",
+      "note": "《캐리비안의 해적》",
+      "tags": [
+        "OST"
+      ],
+      "youtube": [
+        {
+          "id": "dFBBKfw59kA",
+          "label": "영화 사운드트랙"
+        }
+      ]
     },
     {
       "dir": "Icarus (Tony Ann)",
       "id": "icarus-tony-ann",
-      "title": "Icarus (Tony Ann)",
+      "title": "Icarus",
       "composer": "Tony Ann",
       "note": "",
-      "tags": []
+      "tags": [
+        "Modern"
+      ],
+      "youtube": [
+        {
+          "id": "SyenaRJyy00",
+          "label": "Tony Ann 공식"
+        }
+      ]
     },
     {
       "dir": "A Comme Amour",
@@ -895,39 +1119,85 @@
       "title": "A Comme Amour",
       "composer": "Paul de Senneville / Olivier Toussaint",
       "note": "",
-      "tags": []
+      "tags": [
+        "Easy Listening"
+      ],
+      "youtube": [
+        {
+          "id": "VG0OuabV2x4",
+          "label": "Clayderman 공식"
+        }
+      ]
     },
     {
       "dir": "Chia Xa",
       "id": "chia-xa",
       "title": "Chia Xa",
-      "composer": "OST Tân Dòng Sông Ly Biệt",
-      "note": "",
-      "tags": []
+      "composer": "—",
+      "note": "《還珠格格》 OST · Tiktok: hocpianomoingay",
+      "tags": [
+        "C-Pop",
+        "OST"
+      ],
+      "youtube": [
+        {
+          "id": "r0sbamEmXMM",
+          "label": "《환주격격》 주제가 피아노"
+        }
+      ]
     },
     {
       "dir": "Illusionary Daytime",
       "id": "illusionary-daytime",
-      "title": "Illusionary Daytime",
+      "title": "Illusionary Daytime / 幻昼",
       "composer": "Shirfine",
       "note": "",
-      "tags": []
+      "tags": [
+        "Modern",
+        "C-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "si0x-1g_D7o",
+          "label": "Shirfine 공식"
+        }
+      ]
     },
     {
       "dir": "Golden Hour",
       "id": "golden-hour",
       "title": "Golden Hour",
       "composer": "JVKE",
-      "note": "",
-      "tags": []
+      "note": "편곡: Shawn",
+      "tags": [
+        "Pop"
+      ],
+      "youtube": [
+        {
+          "id": "PEM0Vs8jf1w",
+          "label": "JVKE 공식 MV"
+        }
+      ]
     },
     {
       "dir": "Di Vang Nhat Nhoa",
       "id": "di-vang-nhat-nhoa",
-      "title": "Di Vang Nhat Nhoa",
-      "composer": "",
+      "title": "Dĩ Vãng Nhạt Nhòa",
+      "composer": "—",
       "note": "",
-      "tags": []
+      "tags": [
+        "V-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "oCXDT0S1kLU",
+          "label": "Hà Nhi 리메이크"
+        },
+        {
+          "id": "OJAPID3IxJQ",
+          "label": "Lân Nhã"
+        }
+      ]
     },
     {
       "dir": "Solas",
@@ -935,31 +1205,65 @@
       "title": "Solas",
       "composer": "Jamie Duffy",
       "note": "",
-      "tags": []
+      "tags": [
+        "Modern"
+      ],
+      "youtube": [
+        {
+          "id": "ZT0aOrjIcVE",
+          "label": "Jamie Duffy 공식"
+        }
+      ]
     },
     {
       "dir": "Comptine D'un Autre Été - L'après Midi",
       "id": "comptine-d-un-autre-ete-l-apres-midi",
-      "title": "Comptine D'un Autre Été - L'après Midi",
+      "title": "Comptine d'un autre été — L'après-midi (다른 판본)",
       "composer": "Yann Tiersen",
-      "note": "",
-      "tags": []
+      "note": "편곡: Isaac Torres · 1차 배치와 다른 스캔",
+      "tags": [
+        "OST",
+        "Modern"
+      ],
+      "youtube": [
+        {
+          "id": "znfYwABeSZ0",
+          "label": "Yann Tiersen 원곡"
+        }
+      ]
     },
     {
       "dir": "A Town With An Ocean View",
       "id": "a-town-with-an-ocean-view",
-      "title": "A Town With An Ocean View",
-      "composer": "마녀배달부 키키",
-      "note": "",
-      "tags": []
+      "title": "바다가 보이는 마을 / 海の見える街",
+      "composer": "Joe Hisaishi",
+      "note": "《마녀 배달부 키키》 · MINIPIANO Easy Ver",
+      "tags": [
+        "OST",
+        "Anime"
+      ],
+      "youtube": [
+        {
+          "id": "pR4iCWB-VVQ",
+          "label": "히사이시 조 공식"
+        }
+      ]
     },
     {
       "dir": "Et si tu n'existais pas",
       "id": "et-si-tu-n-existais-pas",
       "title": "Et si tu n'existais pas",
-      "composer": "T.Cutugno/P.Losito",
-      "note": "",
-      "tags": []
+      "composer": "Toto Cutugno / P. Losito",
+      "note": "Joe Dassin",
+      "tags": [
+        "Chanson"
+      ],
+      "youtube": [
+        {
+          "id": "fVCAFvIq_F8",
+          "label": "Joe Dassin 원곡"
+        }
+      ]
     },
     {
       "dir": "The Scientist",
@@ -967,343 +1271,770 @@
       "title": "The Scientist",
       "composer": "Coldplay",
       "note": "",
-      "tags": []
+      "tags": [
+        "Rock",
+        "Pop"
+      ],
+      "youtube": [
+        {
+          "id": "RB-RcX5DS5A",
+          "label": "공식 MV"
+        }
+      ]
     },
     {
       "dir": "Samsung Alarm — Homecoming",
       "id": "samsung-alarm-homecoming",
       "title": "Samsung Alarm — Homecoming",
-      "composer": "Homecoming\"",
-      "note": "",
-      "tags": []
+      "composer": "Samsung",
+      "note": "갤럭시 기본 알람음",
+      "tags": [
+        "Modern"
+      ],
+      "youtube": [
+        {
+          "id": "DTN5V55DuaQ",
+          "label": "원 알람음"
+        }
+      ]
     },
     {
       "dir": "The Interstellar Experience",
       "id": "the-interstellar-experience",
       "title": "The Interstellar Experience",
       "composer": "Tony Ann",
-      "note": "",
-      "tags": []
+      "note": "편곡: Dave · 한스 짐머 《인터스텔라》 모티프",
+      "tags": [
+        "Modern",
+        "OST"
+      ],
+      "youtube": [
+        {
+          "id": "-2nNgcwXCRI",
+          "label": "Tony Ann 공식"
+        }
+      ]
     },
     {
       "dir": "Musette in D BWV 126",
       "id": "musette-in-d-bwv-126",
-      "title": "Musette in D BWV 126",
-      "composer": "J.S. Bach",
-      "note": "",
-      "tags": []
+      "title": "Musette in D major, BWV Anh. 126",
+      "composer": "J. S. Bach",
+      "note": "안나 막달레나 바흐 음악수첩",
+      "tags": [
+        "Classical",
+        "Baroque"
+      ],
+      "youtube": [
+        {
+          "id": "yl8emo0hP8E",
+          "label": "Trifonov"
+        },
+        {
+          "id": "cBjjfUexPCA",
+          "label": "피아노"
+        }
+      ]
     },
     {
       "dir": "Hit The Road Jack",
       "id": "hit-the-road-jack",
       "title": "Hit The Road Jack",
       "composer": "Ray Charles",
-      "note": "",
-      "tags": []
+      "note": "편곡: O. Biglietsov / Maestro39",
+      "tags": [
+        "Jazz",
+        "Blues"
+      ],
+      "youtube": [
+        {
+          "id": "uSiHqxgE2d0",
+          "label": "Ray Charles 원곡"
+        }
+      ]
     },
     {
       "dir": "PULSE (a.k.a my neighbour's car alarm...)",
       "id": "pulse-a-k-a-my-neighbour-s-car-alarm",
-      "title": "PULSE (a.k.a my neighbour's car alarm...)",
+      "title": "PULSE (a.k.a my neighbour's car alarm)",
       "composer": "Tony Ann",
-      "note": "",
-      "tags": []
+      "note": "편곡: Yoshazu",
+      "tags": [
+        "Modern"
+      ],
+      "youtube": [
+        {
+          "id": "6Z-8vy6sPQQ",
+          "label": "Tony Ann 공식"
+        }
+      ]
     },
     {
       "dir": "Czardas",
       "id": "czardas",
-      "title": "Czardas",
-      "composer": "Vittorio MONTI",
-      "note": "",
-      "tags": []
+      "title": "Csárdás",
+      "composer": "Vittorio Monti",
+      "note": "편곡: Omar Allen",
+      "tags": [
+        "Classical",
+        "Virtuoso"
+      ],
+      "youtube": [
+        {
+          "id": "HVach8BsJSM",
+          "label": "David Garrett"
+        },
+        {
+          "id": "7ynGhn-YLmM",
+          "label": "고소현"
+        }
+      ]
     },
     {
       "dir": "Chopin - Valse no.19 in A mineur",
       "id": "chopin-valse-no-19-in-a-mineur",
-      "title": "Chopin - Valse no.19 in A mineur",
-      "composer": "Interprété par Jacques Dufour",
-      "note": "",
-      "tags": []
+      "title": "Valse No. 19 in A minor, B. 150 (다른 판본)",
+      "composer": "Frédéric Chopin",
+      "note": "연주: Jacques Dufour",
+      "tags": [
+        "Classical",
+        "Romantic"
+      ],
+      "youtube": [
+        {
+          "id": "eN5z1mu6j4M",
+          "label": "악보 영상"
+        }
+      ]
     },
     {
       "dir": "Endless Love (The Mythe)",
       "id": "endless-love-the-mythe",
-      "title": "Endless Love (The Mythe)",
-      "composer": "Ann Coong / Jackie Chan & Kim Hee-sun",
-      "note": "",
-      "tags": []
+      "title": "Endless Love (神話 The Myth)",
+      "composer": "金培達 (Peter Kam)",
+      "note": "성룡 & 김희선 · 연주: Ann Coong",
+      "tags": [
+        "OST",
+        "C-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "zGB0LN8Codw",
+          "label": "성룡 공식 음원"
+        },
+        {
+          "id": "UJb_XsrJ3-A",
+          "label": "가사 영상"
+        }
+      ]
     },
     {
       "dir": "Chopin Waltz Op.64 Improvisation",
       "id": "chopin-waltz-op-64-improvisation",
-      "title": "Chopin Waltz Op.64 Improvisation",
-      "composer": "영화 Secret(2007)",
-      "note": "",
-      "tags": []
+      "title": "Chopin Waltz Op. 64 Improvisation",
+      "composer": "Frédéric Chopin / Jay Chou",
+      "note": "영화 《말할 수 없는 비밀》 · 편곡: Lee-Daniel Tran",
+      "tags": [
+        "OST",
+        "Classical"
+      ],
+      "youtube": [
+        {
+          "id": "a18wf9sD94o",
+          "label": "영화 속 피아노 배틀 2"
+        },
+        {
+          "id": "NNUzJ2rhw2k",
+          "label": "배틀 전체 장면"
+        }
+      ]
     },
     {
       "dir": "Moonlight",
       "id": "moonlight",
       "title": "Moonlight",
       "composer": "しがない高校生",
-      "note": "",
-      "tags": []
+      "note": "피아노 솔로 편곡",
+      "tags": [
+        "Modern",
+        "J-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "b0h2SZhkXxg",
+          "label": "작곡가 연주"
+        }
+      ]
     },
     {
       "dir": "PIANO SONATA NO.16 K.545 (2nd Mvt)",
       "id": "piano-sonata-no-16-k-545-2nd-mvt",
-      "title": "PIANO SONATA NO.16 K.545 (2nd Mvt)",
-      "composer": "모차르트",
-      "note": "",
-      "tags": []
+      "title": "Piano Sonata No. 16 in C, K. 545 — II. Andante",
+      "composer": "W. A. Mozart",
+      "note": "편곡: Vũ Ca",
+      "tags": [
+        "Classical"
+      ],
+      "youtube": [
+        {
+          "id": "Gj4LjyTOmD0",
+          "label": "우치다 미츠코"
+        }
+      ]
     },
     {
       "dir": "Akaza's Love Theme",
       "id": "akaza-s-love-theme",
       "title": "Akaza's Love Theme",
-      "composer": "귀멸의 칼날 무한성편 OST",
-      "note": "",
-      "tags": []
+      "composer": "梶浦由記 / 椎名豪",
+      "note": "《귀멸의 칼날: 무한성편》 OST · 편곡: Minnie",
+      "tags": [
+        "OST",
+        "Anime"
+      ],
+      "youtube": [
+        {
+          "id": "Yw122H_FhsQ",
+          "label": "극장판 OST"
+        },
+        {
+          "id": "shd0ikN6JSk",
+          "label": "피아노 커버"
+        }
+      ]
     },
     {
       "dir": "See You Again",
       "id": "see-you-again",
       "title": "See You Again",
-      "composer": "",
-      "note": "",
-      "tags": []
+      "composer": "Wiz Khalifa ft. Charlie Puth",
+      "note": "《분노의 질주》 OST",
+      "tags": [
+        "Pop",
+        "OST"
+      ],
+      "youtube": [
+        {
+          "id": "RgKAFK5djSk",
+          "label": "공식 MV"
+        }
+      ]
     },
     {
       "dir": "Cry For Me",
       "id": "cry-for-me",
       "title": "Cry For Me",
-      "composer": "Michita (Lyrics Michita/Ami)",
-      "note": "",
-      "tags": []
+      "composer": "Michita",
+      "note": "작사: Michita / Ami",
+      "tags": [
+        "J-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "HVBnpC1b_5Y",
+          "label": "공식 음원"
+        }
+      ]
     },
     {
       "dir": "A Thousand Miles",
       "id": "a-thousand-miles",
       "title": "A Thousand Miles",
-      "composer": "VANESSA CARLTON",
-      "note": "",
-      "tags": []
+      "composer": "Vanessa Carlton",
+      "note": "편곡: Megan Kruitbosch",
+      "tags": [
+        "Pop"
+      ],
+      "youtube": [
+        {
+          "id": "Cwkej79U3ek",
+          "label": "공식"
+        }
+      ]
     },
     {
       "dir": "From The Beginning Until Now",
       "id": "from-the-beginning-until-now",
-      "title": "From The Beginning Until Now",
-      "composer": "겨울연가 OST",
+      "title": "처음부터 지금까지 (겨울연가 OST)",
+      "composer": "이지수",
       "note": "",
-      "tags": []
+      "tags": [
+        "OST",
+        "K-Drama"
+      ],
+      "youtube": [
+        {
+          "id": "uSgqmH7hLOM",
+          "label": "겨울연가 MV"
+        }
+      ]
     },
     {
       "dir": "EVERY BREATH YOU TAKE",
       "id": "every-breath-you-take",
-      "title": "EVERY BREATH YOU TAKE",
-      "composer": "Sting",
+      "title": "Every Breath You Take",
+      "composer": "Sting (The Police)",
       "note": "",
-      "tags": []
+      "tags": [
+        "Pop",
+        "Rock"
+      ],
+      "youtube": [
+        {
+          "id": "OMOGaugKpzs",
+          "label": "공식 MV"
+        }
+      ]
     },
     {
       "dir": "Je te laisserai des mots",
       "id": "je-te-laisserai-des-mots",
       "title": "Je te laisserai des mots",
       "composer": "Patrick Watson",
-      "note": "",
-      "tags": []
+      "note": "편곡: Miguel Ribeiro",
+      "tags": [
+        "Chanson",
+        "Modern"
+      ],
+      "youtube": [
+        {
+          "id": "XZfyyk0_Yqs",
+          "label": "공식"
+        }
+      ]
     },
     {
       "dir": "Tori no uta (short)",
       "id": "tori-no-uta-short",
-      "title": "Tori no uta (short)",
-      "composer": "'Air' OST",
-      "note": "",
-      "tags": []
+      "title": "鳥の詩 (Tori no uta)",
+      "composer": "折戸伸治",
+      "note": "《AIR》 OST · Lia · 편곡: Animenz",
+      "tags": [
+        "OST",
+        "Anime"
+      ],
+      "youtube": [
+        {
+          "id": "7mZlRSAUSsU",
+          "label": "Lia 공식"
+        }
+      ]
     },
     {
       "dir": "星茶会",
-      "id": "piece",
-      "title": "星茶会",
-      "composer": "",
-      "note": "",
-      "tags": []
+      "id": "xing-cha-hui-2",
+      "title": "星茶会 (다른 판본)",
+      "composer": "灰澈 (huiche)",
+      "note": "1차 배치와 다른 편곡",
+      "tags": [
+        "Pop",
+        "C-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "Ycc7ZW27VEY",
+          "label": "灰澈 원곡"
+        }
+      ]
     },
     {
       "dir": "CZERNY Op.599 No.30",
       "id": "czerny-op-599-no-30",
-      "title": "CZERNY Op.599 No.30",
-      "composer": "Vuca",
-      "note": "",
-      "tags": []
+      "title": "Czerny Op. 599 No. 30",
+      "composer": "Carl Czerny",
+      "note": "편곡·주석: Vũ Ca",
+      "tags": [
+        "Classical",
+        "Etude",
+        "Beginner"
+      ],
+      "youtube": [
+        {
+          "id": "WKkSJFhPL7o",
+          "label": "악보 영상"
+        },
+        {
+          "id": "ClVFqIqwCr8",
+          "label": "연주"
+        }
+      ]
     },
     {
       "dir": "Drowning love - Chasing Kou",
       "id": "drowning-love-chasing-kou",
-      "title": "Drowning love / Chasing Kou",
-      "composer": "arr. Antonis Paterakis",
-      "note": "",
-      "tags": []
+      "title": "Drowning Love / Chasing Kou",
+      "composer": "—",
+      "note": "편곡: Antonis Paterakis",
+      "tags": [
+        "Modern"
+      ],
+      "youtube": [
+        {
+          "id": "wtkkEpffezs",
+          "label": "편곡자 연주"
+        },
+        {
+          "id": "JtVG1n1YInc",
+          "label": "다른 연주"
+        }
+      ]
     },
     {
       "dir": "Married Life (Theme from Up)",
       "id": "married-life-theme-from-up",
-      "title": "Married Life (Theme from Up)",
-      "composer": "Disney/Pixar",
+      "title": "Married Life (영화 《업》)",
+      "composer": "Michael Giacchino",
       "note": "",
-      "tags": []
+      "tags": [
+        "OST"
+      ],
+      "youtube": [
+        {
+          "id": "S1uWHjhluTI",
+          "label": "디즈니 공식"
+        }
+      ]
     },
     {
       "dir": "Farewell of Slavianka",
       "id": "farewell-of-slavianka",
-      "title": "Farewell of Slavianka",
-      "composer": "",
+      "title": "슬라브 여인의 작별 (Прощание славянки)",
+      "composer": "Vasily Agapkin",
       "note": "",
-      "tags": []
+      "tags": [
+        "Classical",
+        "March"
+      ],
+      "youtube": [
+        {
+          "id": "yKkUJ-l_ycs",
+          "label": "붉은군대 합창단"
+        },
+        {
+          "id": "ckXVbH2YlMM",
+          "label": "행진곡"
+        }
+      ]
     },
     {
       "dir": "Habanera",
       "id": "habanera",
-      "title": "Habanera",
+      "title": "Habanera (《카르멘》)",
       "composer": "Georges Bizet",
       "note": "",
-      "tags": []
+      "tags": [
+        "Classical",
+        "Opera"
+      ],
+      "youtube": [
+        {
+          "id": "EseMHr6VEM0",
+          "label": "마리아 칼라스"
+        },
+        {
+          "id": "EcFJTc28soQ",
+          "label": "관현악"
+        }
+      ]
     },
     {
       "dir": "My Love",
       "id": "my-love",
       "title": "My Love",
       "composer": "Westlife",
-      "note": "",
-      "tags": []
+      "note": "편곡: Rachel Aow",
+      "tags": [
+        "Pop"
+      ],
+      "youtube": [
+        {
+          "id": "ulOb9gIGGd0",
+          "label": "공식 MV"
+        }
+      ]
     },
     {
       "dir": "Piano Sonata No.16 K.545 (3rd Mvt)",
       "id": "piano-sonata-no-16-k-545-3rd-mvt",
-      "title": "Piano Sonata No.16 K.545 (3rd Mvt)",
-      "composer": "모차르트",
-      "note": "",
-      "tags": []
+      "title": "Piano Sonata No. 16 in C, K. 545 — III. Rondo Allegretto",
+      "composer": "W. A. Mozart",
+      "note": "편곡: Vũ Ca",
+      "tags": [
+        "Classical"
+      ],
+      "youtube": [
+        {
+          "id": "C8hQ8NBueiM",
+          "label": "마리아 조앙 피르스"
+        }
+      ]
     },
     {
       "dir": "Đông Miên",
-      "id": "ong-mien",
+      "id": "dong-mien",
       "title": "Đông Miên",
-      "composer": "",
+      "composer": "—",
       "note": "",
-      "tags": []
+      "tags": [
+        "V-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "SQ4OtaEA3lU",
+          "label": "司南 冬眠 피아노"
+        },
+        {
+          "id": "KWeJPBYV81Q",
+          "label": "피아노"
+        }
+      ]
     },
     {
       "dir": "Detective Conan Main Theme",
       "id": "detective-conan-main-theme",
-      "title": "Detective Conan Main Theme",
-      "composer": "Katsuo Ono",
+      "title": "명탐정 코난 메인 테마",
+      "composer": "大野克夫 (Katsuo Ono)",
       "note": "",
-      "tags": []
+      "tags": [
+        "OST",
+        "Anime"
+      ],
+      "youtube": [
+        {
+          "id": "1XWe2MBaLRI",
+          "label": "메인 테마"
+        }
+      ]
     },
     {
       "dir": "Hungarian Dance No.5 in G Minor",
       "id": "hungarian-dance-no-5-in-g-minor",
-      "title": "Hungarian Dance No.5 in G Minor",
-      "composer": "브람스",
+      "title": "헝가리 무곡 제5번 사단조",
+      "composer": "Johannes Brahms",
       "note": "",
-      "tags": []
+      "tags": [
+        "Classical",
+        "Romantic"
+      ],
+      "youtube": [
+        {
+          "id": "HCDygl0pttM",
+          "label": "피아노"
+        },
+        {
+          "id": "Nzo3atXtm54",
+          "label": "관현악"
+        }
+      ]
     },
     {
       "dir": "sinking town - tentententen",
       "id": "sinking-town-tentententen",
-      "title": "sinking town / tentententen",
-      "composer": "yoeko kurahashi",
-      "note": "",
-      "tags": []
+      "title": "sinking town",
+      "composer": "yoeko kurahashi (tentententen)",
+      "note": "편곡: ezstvp!",
+      "tags": [
+        "J-Pop",
+        "Modern"
+      ],
+      "youtube": [
+        {
+          "id": "d3_ED0VmYv8",
+          "label": "倉橋ヨエコ 원곡"
+        }
+      ]
     },
     {
       "dir": "My Lie (Your Lie in April)",
       "id": "my-lie-your-lie-in-april",
-      "title": "My Lie (Your Lie in April)",
-      "composer": "Masaru Yokoyama",
-      "note": "",
-      "tags": []
+      "title": "My Lie (《4월은 너의 거짓말》)",
+      "composer": "横山克 (Masaru Yokoyama)",
+      "note": "편곡: Torby Brand",
+      "tags": [
+        "OST",
+        "Anime"
+      ],
+      "youtube": [
+        {
+          "id": "IqkZZZ6X8mQ",
+          "label": "공식 피아노 솔로"
+        }
+      ]
     },
     {
       "dir": "HE'S A PIRATE Easy Version",
       "id": "he-s-a-pirate-easy-version",
-      "title": "HE'S A PIRATE Easy Version",
+      "title": "He's a Pirate (쉬운 편곡)",
       "composer": "Klaus Badelt",
       "note": "",
-      "tags": []
+      "tags": [
+        "OST",
+        "Beginner"
+      ],
+      "youtube": [
+        {
+          "id": "dFBBKfw59kA",
+          "label": "영화 사운드트랙"
+        }
+      ]
     },
     {
       "dir": "L's Theme",
       "id": "l-s-theme",
-      "title": "L's Theme",
-      "composer": "Death Note",
+      "title": "L's Theme (《데스노트》)",
+      "composer": "平野義久 (Yoshihisa Hirano)",
       "note": "",
-      "tags": []
+      "tags": [
+        "OST",
+        "Anime"
+      ],
+      "youtube": [
+        {
+          "id": "GBC4azvwEVM",
+          "label": "공식 OST"
+        }
+      ]
     },
     {
       "dir": "From The Start (Beginner Piano Adaptation)",
       "id": "from-the-start-beginner-piano-adaptation",
-      "title": "From The Start (Beginner Piano Adaptation)",
+      "title": "From The Start (초급 편곡)",
       "composer": "Laufey",
       "note": "",
-      "tags": []
+      "tags": [
+        "Jazz",
+        "Pop",
+        "Beginner"
+      ],
+      "youtube": [
+        {
+          "id": "lSD_L-xic9o",
+          "label": "Laufey 공식 MV"
+        }
+      ]
     },
     {
       "dir": "Mariage d'amour",
       "id": "mariage-d-amour",
       "title": "Mariage d'amour",
-      "composer": "",
+      "composer": "Paul de Senneville",
       "note": "",
-      "tags": []
+      "tags": [
+        "Easy Listening"
+      ],
+      "youtube": [
+        {
+          "id": "FoCG-WNsZio",
+          "label": "Jacob's Piano"
+        }
+      ]
     },
     {
       "dir": "A Time For Us (Romeo & Juliet)",
       "id": "a-time-for-us-romeo-juliet",
-      "title": "A Time For Us (Romeo & Juliet)",
-      "composer": "Richard Clayderman",
-      "note": "",
-      "tags": []
+      "title": "A Time For Us (《로미오와 줄리엣》)",
+      "composer": "Nino Rota",
+      "note": "연주: Richard Clayderman",
+      "tags": [
+        "OST",
+        "Easy Listening"
+      ],
+      "youtube": [
+        {
+          "id": "W4b5mcTSEUY",
+          "label": "Nino Rota"
+        },
+        {
+          "id": "4FHpmn-KYec",
+          "label": "1968년 영화"
+        }
+      ]
     },
     {
       "dir": "seasons by wave to earth",
       "id": "seasons-by-wave-to-earth",
-      "title": "seasons by wave to earth",
-      "composer": "arr. sook",
-      "note": "",
-      "tags": []
+      "title": "seasons",
+      "composer": "wave to earth",
+      "note": "편곡: sook",
+      "tags": [
+        "K-Indie"
+      ],
+      "youtube": [
+        {
+          "id": "nZqwQCLYgjk",
+          "label": "온스테이지 라이브"
+        },
+        {
+          "id": "CnVVjLOGVoY",
+          "label": "음원"
+        }
+      ]
     },
     {
       "dir": "NƠI PHÁO HOA RỰC RỠ (Đi Để Trở Về 8)",
       "id": "noi-phao-hoa-ruc-ro-i-e-tro-ve-8",
-      "title": "NƠI PHÁO HOA RỰC RỠ (Đi Để Trở Về 8)",
-      "composer": "Orange x Hoàng Dũng x Cẩm Vân x Hứa Kim Tuyền",
-      "note": "",
-      "tags": []
+      "title": "Nơi Pháo Hoa Rực Rỡ (Đi Để Trở Về 8)",
+      "composer": "Hứa Kim Tuyền",
+      "note": "Orange x Hoàng Dũng x Cẩm Vân · 채보: Ken.D",
+      "tags": [
+        "V-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "BgUFNi5MvzE",
+          "label": "공식 MV"
+        }
+      ]
     },
     {
       "dir": "Wedding March",
       "id": "wedding-march",
-      "title": "Wedding March",
-      "composer": "Mendelssohn",
+      "title": "결혼 행진곡 (《한여름 밤의 꿈》)",
+      "composer": "Felix Mendelssohn",
       "note": "",
-      "tags": []
+      "tags": [
+        "Classical",
+        "Wedding"
+      ],
+      "youtube": [
+        {
+          "id": "0Oo4z37OUEI",
+          "label": "아바도 / 베를린필"
+        }
+      ]
     },
     {
       "dir": "Beanie",
       "id": "beanie-2",
-      "title": "Beanie",
+      "title": "Beanie (다른 스캔)",
       "composer": "Chezile",
-      "note": "",
-      "tags": []
+      "note": "편곡: crimsonnote · 1차 배치와 같은 편곡",
+      "tags": [
+        "Pop"
+      ],
+      "youtube": [
+        {
+          "id": "tERTBPdVivc",
+          "label": "공식 음원"
+        }
+      ]
     },
     {
       "dir": "Flower Dance (C Major Simplified)",
       "id": "flower-dance-c-major-simplified",
-      "title": "Flower Dance (C Major Simplified)",
-      "composer": "Dj Okawari",
+      "title": "Flower Dance (C장조 간이판)",
+      "composer": "DJ Okawari",
       "note": "",
-      "tags": []
+      "tags": [
+        "Modern",
+        "Beginner"
+      ],
+      "youtube": [
+        {
+          "id": "AULG4MoYxQk",
+          "label": "DJ Okawari 원곡"
+        }
+      ]
     },
     {
       "dir": "A Little Story",
@@ -1311,110 +2042,240 @@
       "title": "A Little Story",
       "composer": "Valentin",
       "note": "",
-      "tags": []
+      "tags": [
+        "Modern"
+      ],
+      "youtube": [
+        {
+          "id": "3aOzItICytI",
+          "label": "Valentin 원곡"
+        }
+      ]
     },
     {
       "dir": "The 5th Melody Of The Night",
       "id": "the-5th-melody-of-the-night",
-      "title": "The 5th Melody Of The Night",
-      "composer": "Jin Shi",
+      "title": "夜的第五樂章 (The 5th Melody of the Night)",
+      "composer": "Jin Shi (金志文)",
       "note": "",
-      "tags": []
+      "tags": [
+        "C-Pop",
+        "Modern"
+      ],
+      "youtube": [
+        {
+          "id": "A8TRNokxB24",
+          "label": "夜的鋼琴曲(五)"
+        },
+        {
+          "id": "l5oVwHVel2w",
+          "label": "악보 영상"
+        }
+      ]
     },
     {
       "dir": "A Million Dream",
       "id": "a-million-dream",
-      "title": "A Million Dream",
-      "composer": "",
+      "title": "A Million Dreams (《위대한 쇼맨》)",
+      "composer": "Pasek & Paul",
       "note": "",
-      "tags": []
+      "tags": [
+        "OST",
+        "Musical"
+      ],
+      "youtube": [
+        {
+          "id": "pSQk-4fddDI",
+          "label": "공식 음원"
+        }
+      ]
     },
     {
       "dir": "Never Be Alone (FNAF 4)",
       "id": "never-be-alone-fnaf-4",
       "title": "Never Be Alone (FNAF 4)",
       "composer": "Shadrow",
-      "note": "",
-      "tags": []
+      "note": "편곡: nCryptic",
+      "tags": [
+        "Game"
+      ],
+      "youtube": [
+        {
+          "id": "uQpKzPCBqc4",
+          "label": "Shadrow 원곡"
+        }
+      ]
     },
     {
       "dir": "Yume to Hazakura",
       "id": "yume-to-hazakura",
-      "title": "Yume to Hazakura",
-      "composer": "初音ミク",
-      "note": "",
-      "tags": []
+      "title": "夢と葉桜 (Yume to Hazakura)",
+      "composer": "Aoki Gekkou (青木月光)",
+      "note": "初音ミク",
+      "tags": [
+        "Vocaloid",
+        "J-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "SeINrH9Bsb4",
+          "label": "初音ミク 원곡"
+        }
+      ]
     },
     {
       "dir": "Komorebi",
       "id": "komorebi",
-      "title": "Komorebi",
+      "title": "Komorebi / 木漏れ日",
       "composer": "m-taku",
       "note": "",
-      "tags": []
+      "tags": [
+        "Modern",
+        "J-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "IpXoozpm_eg",
+          "label": "피아노 연주"
+        }
+      ]
     },
     {
       "dir": "Right Here Waiting For You",
       "id": "right-here-waiting-for-you",
-      "title": "Right Here Waiting For You",
+      "title": "Right Here Waiting",
       "composer": "Richard Marx",
-      "note": "",
-      "tags": []
+      "note": "편곡: Phuong Thy",
+      "tags": [
+        "Pop"
+      ],
+      "youtube": [
+        {
+          "id": "S_E2EHVxNAE",
+          "label": "공식 MV"
+        }
+      ]
     },
     {
       "dir": "A Little Sweet 有點甜",
       "id": "a-little-sweet",
-      "title": "A Little Sweet 有點甜",
-      "composer": "Silence Wang",
+      "title": "有點甜 (A Little Sweet)",
+      "composer": "汪蘇瀧 (Silence Wang)",
       "note": "",
-      "tags": []
+      "tags": [
+        "C-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "OtEJ6LGCW-U",
+          "label": "공식 MV"
+        }
+      ]
     },
     {
       "dir": "Farewell Letter 诀别书",
       "id": "farewell-letter",
-      "title": "Farewell Letter 诀别书",
-      "composer": "arr. TPT",
-      "note": "",
-      "tags": []
+      "title": "訣別書 (Farewell Letter)",
+      "composer": "—",
+      "note": "편곡: TPT",
+      "tags": [
+        "C-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "D96T-towr1o",
+          "label": "피아노 연주"
+        },
+        {
+          "id": "FhGz4VsTeAg",
+          "label": "다른 연주"
+        }
+      ]
     },
     {
       "dir": "Radetzky March",
       "id": "radetzky-march",
-      "title": "Radetzky March",
-      "composer": "Strauss I",
+      "title": "라데츠키 행진곡, Op. 228",
+      "composer": "Johann Strauss I",
       "note": "",
-      "tags": []
+      "tags": [
+        "Classical",
+        "March"
+      ],
+      "youtube": [
+        {
+          "id": "-bMV6xaRPvk",
+          "label": "빈 무지크페라인"
+        },
+        {
+          "id": "eab_eFtTKFs",
+          "label": "관현악"
+        }
+      ]
     },
     {
       "dir": "Hazy Moon",
       "id": "hazy-moon",
-      "title": "Hazy Moon",
-      "composer": "Astarte_Chrono",
-      "note": "",
-      "tags": []
+      "title": "朧月 (Hazy Moon)",
+      "composer": "ボカロP (初音ミク / 巡音ルカ)",
+      "note": "편곡: Astarte_Chrono",
+      "tags": [
+        "Vocaloid",
+        "J-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "70PLyKyz2qE",
+          "label": "보컬로이드 원곡"
+        },
+        {
+          "id": "D4gNNo069kU",
+          "label": "피아노"
+        }
+      ]
     },
     {
       "dir": "10 Ngàn Năm",
       "id": "10-ngan-nam",
       "title": "10 Ngàn Năm",
-      "composer": "",
+      "composer": "—",
       "note": "",
-      "tags": []
+      "tags": [
+        "V-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "2-zSSzg8i3Y",
+          "label": "PC 원곡"
+        },
+        {
+          "id": "1N0zBSOhClk",
+          "label": "피아노"
+        }
+      ]
     },
     {
       "dir": "꽃날 Flower Day",
       "id": "flower-day",
-      "title": "꽃날 Flower Day",
-      "composer": "arr. Camillia Lin",
-      "note": "",
-      "tags": []
+      "title": "꽃날 (Flower Day)",
+      "composer": "—",
+      "note": "편곡: Camillia Lin",
+      "tags": [
+        "K-Pop"
+      ],
+      "youtube": [
+        {
+          "id": "asUUKGlCvDM",
+          "label": "황진이 OST 피아노"
+        }
+      ]
     },
     {
       "dir": "_미분류 (batch2)",
       "id": "unsorted-batch2",
       "title": "미분류 — 2차 배치",
-      "composer": "곡 배정이 끝나지 않은 페이지 모음",
-      "note": "파일명 pNNN 은 판독 인덱스입니다 (tools/batch2/notes.md 참조)",
+      "composer": "곡 배정이 끝나지 않은 페이지",
+      "note": "파일명 pNNN 은 판독 인덱스 (tools/batch2/notes.md 참조)",
       "tags": [
         "미분류"
       ]
