@@ -2271,13 +2271,100 @@
       ]
     },
     {
-      "dir": "_미분류 (batch2)",
-      "id": "unsorted-batch2",
-      "title": "미분류 — 2차 배치",
-      "composer": "곡 배정이 끝나지 않은 페이지",
-      "note": "파일명 pNNN 은 판독 인덱스 (tools/batch2/notes.md 참조)",
+      "dir": "_미확인 A · C장조 무궁동 16분음표",
+      "id": "unknown-a",
+      "title": "미확인 A · C장조 무궁동 16분음표",
+      "composer": "4장 — 곡명 미상",
+      "note": "p2 m16 · p3 m29 · p4 m41 · p6 m73 — 양손 16분음표가 쉬지 않고 흐르는 편곡",
       "tags": [
-        "미분류"
+        "미확인"
+      ]
+    },
+    {
+      "dir": "_미확인 B · 3♭ 페달 위주 서정곡",
+      "id": "unknown-b",
+      "title": "미확인 B · 3♭ 페달 위주 서정곡",
+      "composer": "2장 — 곡명 미상",
+      "note": "p2 m17 · p3 m37(끝) — 마디마다 Ped., 페르마타로 종료",
+      "tags": [
+        "미확인"
+      ]
+    },
+    {
+      "dir": "_미확인 C · 3♭ 액센트 오스티나토",
+      "id": "unknown-c",
+      "title": "미확인 C · 3♭ 액센트 오스티나토",
+      "composer": "4장 — 곡명 미상",
+      "note": "p3 m27 · p4 m40 · p5 m50 · p6 m66 — 워터마크 @piano23.5",
+      "tags": [
+        "미확인"
+      ]
+    },
+    {
+      "dir": "_미확인 D · 고전 소품 (Fine·D.C.)",
+      "id": "unknown-d",
+      "title": "미확인 D · 고전 소품 (Fine·D.C.)",
+      "composer": "2장 — 곡명 미상",
+      "note": "m44에 Fine, m75에 D.C. al Fine — 3# 장식음(tr) 포함",
+      "tags": [
+        "미확인"
+      ]
+    },
+    {
+      "dir": "_미확인 E · 고전 대곡 (트리플렛)",
+      "id": "unknown-e",
+      "title": "미확인 E · 고전 대곡 (트리플렛)",
+      "composer": "2장 — 곡명 미상",
+      "note": "p4 m105 · p5 m138 — 140마디가 넘는 긴 곡, tr·셋잇단음표",
+      "tags": [
+        "미확인"
+      ]
+    },
+    {
+      "dir": "_미확인 F · 3♭→4♭ 소품",
+      "id": "unknown-f",
+      "title": "미확인 F · 3♭→4♭ 소품",
+      "composer": "2장 — 곡명 미상",
+      "note": "p2 m21 · p3 m44(끝) — 마지막 장에 'no pedal'",
+      "tags": [
+        "미확인"
+      ]
+    },
+    {
+      "dir": "_미확인 G · 1♭ 곡",
+      "id": "unknown-g",
+      "title": "미확인 G · 1♭ 곡",
+      "composer": "2장 — 곡명 미상",
+      "note": "p3 m62 · p4 m72 — ff 클라이맥스",
+      "tags": [
+        "미확인"
+      ]
+    },
+    {
+      "dir": "_미확인 낱장",
+      "id": "unknown-singles",
+      "title": "미확인 · 낱장 모음",
+      "composer": "16장 — 각각 다른 곡",
+      "note": "같은 곡으로 묶을 짝을 못 찾은 페이지들. 한 장씩 서로 다른 곡일 가능성이 큽니다",
+      "tags": [
+        "미확인"
+      ]
+    },
+    {
+      "dir": "Hit The Road Jack (SkyRecon)",
+      "id": "hit-the-road-jack-skyrecon",
+      "title": "Hit The Road Jack (SkyRecon 편곡)",
+      "composer": "Ray Charles",
+      "note": "편곡: SkyRecon · ♩=178",
+      "tags": [
+        "Jazz",
+        "Blues"
+      ],
+      "youtube": [
+        {
+          "id": "uSiHqxgE2d0",
+          "label": "Ray Charles 원곡"
+        }
       ]
     }
   ],
