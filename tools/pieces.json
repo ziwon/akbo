@@ -704,6 +704,720 @@
           "label": "Carpenters 원곡"
         }
       ]
+    },
+    {
+      "dir": "Soranji",
+      "id": "soranji",
+      "title": "Soranji",
+      "composer": "Mrs. GREEN APPLE / 大森元貴",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Love Story (Richard Clayderman)",
+      "id": "love-story-richard-clayderman",
+      "title": "Love Story (Richard Clayderman)",
+      "composer": "Richard Clayderman",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Bella Ciao",
+      "id": "bella-ciao",
+      "title": "Bella Ciao",
+      "composer": "La Casa de Papel",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "A Thousand Years",
+      "id": "a-thousand-years",
+      "title": "A Thousand Years",
+      "composer": "C.Perri",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "In the End",
+      "id": "in-the-end",
+      "title": "In the End",
+      "composer": "Linkin Park",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Despacito",
+      "id": "despacito",
+      "title": "Despacito",
+      "composer": "Luis Fonsi ft. Daddy Yankee",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "La Campanella (Liszt)",
+      "id": "la-campanella-liszt",
+      "title": "La Campanella (Liszt)",
+      "composer": "리스트",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Chopin Etude Op.10 No.4",
+      "id": "chopin-etude-op-10-no-4",
+      "title": "Chopin Etude Op.10 No.4",
+      "composer": "쇼팽",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Chopin Etude Op.25 No.1",
+      "id": "chopin-etude-op-25-no-1",
+      "title": "Chopin Etude Op.25 No.1",
+      "composer": "쇼팽",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Waltz of the Flowers (Tchaikovsky)",
+      "id": "waltz-of-the-flowers-tchaikovsky",
+      "title": "Waltz of the Flowers (Tchaikovsky)",
+      "composer": "Tchaikovsky",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Perfect (Ed Sheeran)",
+      "id": "perfect-ed-sheeran",
+      "title": "Perfect (Ed Sheeran)",
+      "composer": "Ed Sheeran",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Fly Me To The Moon",
+      "id": "fly-me-to-the-moon",
+      "title": "Fly Me To The Moon",
+      "composer": "Bart Howard",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Someone You Loved",
+      "id": "someone-you-loved",
+      "title": "Someone You Loved",
+      "composer": "vuca",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Kiss The Rain",
+      "id": "kiss-the-rain",
+      "title": "Kiss The Rain",
+      "composer": "",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Beautiful In White (vuca)",
+      "id": "beautiful-in-white-vuca",
+      "title": "Beautiful In White (vuca)",
+      "composer": "vuca",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Eyes Of Love",
+      "id": "eyes-of-love",
+      "title": "Eyes Of Love",
+      "composer": "vuca",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Em (Binz ft. Soobin)",
+      "id": "em-binz-ft-soobin",
+      "title": "Em (Binz ft. Soobin)",
+      "composer": "vuca",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Mariage d'Amour (solfege)",
+      "id": "mariage-d-amour-solfege",
+      "title": "Mariage d'Amour (solfege)",
+      "composer": "Paul de Senneville",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "La Maritza (solfege)",
+      "id": "la-maritza-solfege",
+      "title": "La Maritza (solfege)",
+      "composer": "Sylvie Vartan",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Proud of You (solfege)",
+      "id": "proud-of-you-solfege",
+      "title": "Proud of You (solfege)",
+      "composer": "Fiona Fung",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Windy Hill",
+      "id": "windy-hill",
+      "title": "Windy Hill",
+      "composer": "hocpianomoingay",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "He's a Pirate",
+      "id": "he-s-a-pirate",
+      "title": "He's a Pirate",
+      "composer": "Klaus Badelt/Hans Zimmer",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Icarus (Tony Ann)",
+      "id": "icarus-tony-ann",
+      "title": "Icarus (Tony Ann)",
+      "composer": "Tony Ann",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "A Comme Amour",
+      "id": "a-comme-amour",
+      "title": "A Comme Amour",
+      "composer": "Paul de Senneville / Olivier Toussaint",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Chia Xa",
+      "id": "chia-xa",
+      "title": "Chia Xa",
+      "composer": "OST Tân Dòng Sông Ly Biệt",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Illusionary Daytime",
+      "id": "illusionary-daytime",
+      "title": "Illusionary Daytime",
+      "composer": "Shirfine",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Golden Hour",
+      "id": "golden-hour",
+      "title": "Golden Hour",
+      "composer": "JVKE",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Di Vang Nhat Nhoa",
+      "id": "di-vang-nhat-nhoa",
+      "title": "Di Vang Nhat Nhoa",
+      "composer": "",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Solas",
+      "id": "solas",
+      "title": "Solas",
+      "composer": "Jamie Duffy",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Comptine D'un Autre Été - L'après Midi",
+      "id": "comptine-d-un-autre-ete-l-apres-midi",
+      "title": "Comptine D'un Autre Été - L'après Midi",
+      "composer": "Yann Tiersen",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "A Town With An Ocean View",
+      "id": "a-town-with-an-ocean-view",
+      "title": "A Town With An Ocean View",
+      "composer": "마녀배달부 키키",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Et si tu n'existais pas",
+      "id": "et-si-tu-n-existais-pas",
+      "title": "Et si tu n'existais pas",
+      "composer": "T.Cutugno/P.Losito",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "The Scientist",
+      "id": "the-scientist",
+      "title": "The Scientist",
+      "composer": "Coldplay",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Samsung Alarm — Homecoming",
+      "id": "samsung-alarm-homecoming",
+      "title": "Samsung Alarm — Homecoming",
+      "composer": "Homecoming\"",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "The Interstellar Experience",
+      "id": "the-interstellar-experience",
+      "title": "The Interstellar Experience",
+      "composer": "Tony Ann",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Musette in D BWV 126",
+      "id": "musette-in-d-bwv-126",
+      "title": "Musette in D BWV 126",
+      "composer": "J.S. Bach",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Hit The Road Jack",
+      "id": "hit-the-road-jack",
+      "title": "Hit The Road Jack",
+      "composer": "Ray Charles",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "PULSE (a.k.a my neighbour's car alarm...)",
+      "id": "pulse-a-k-a-my-neighbour-s-car-alarm",
+      "title": "PULSE (a.k.a my neighbour's car alarm...)",
+      "composer": "Tony Ann",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Czardas",
+      "id": "czardas",
+      "title": "Czardas",
+      "composer": "Vittorio MONTI",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Chopin - Valse no.19 in A mineur",
+      "id": "chopin-valse-no-19-in-a-mineur",
+      "title": "Chopin - Valse no.19 in A mineur",
+      "composer": "Interprété par Jacques Dufour",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Endless Love (The Mythe)",
+      "id": "endless-love-the-mythe",
+      "title": "Endless Love (The Mythe)",
+      "composer": "Ann Coong / Jackie Chan & Kim Hee-sun",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Chopin Waltz Op.64 Improvisation",
+      "id": "chopin-waltz-op-64-improvisation",
+      "title": "Chopin Waltz Op.64 Improvisation",
+      "composer": "영화 Secret(2007)",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Moonlight",
+      "id": "moonlight",
+      "title": "Moonlight",
+      "composer": "しがない高校生",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "PIANO SONATA NO.16 K.545 (2nd Mvt)",
+      "id": "piano-sonata-no-16-k-545-2nd-mvt",
+      "title": "PIANO SONATA NO.16 K.545 (2nd Mvt)",
+      "composer": "모차르트",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Akaza's Love Theme",
+      "id": "akaza-s-love-theme",
+      "title": "Akaza's Love Theme",
+      "composer": "귀멸의 칼날 무한성편 OST",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "See You Again",
+      "id": "see-you-again",
+      "title": "See You Again",
+      "composer": "",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Cry For Me",
+      "id": "cry-for-me",
+      "title": "Cry For Me",
+      "composer": "Michita (Lyrics Michita/Ami)",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "A Thousand Miles",
+      "id": "a-thousand-miles",
+      "title": "A Thousand Miles",
+      "composer": "VANESSA CARLTON",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "From The Beginning Until Now",
+      "id": "from-the-beginning-until-now",
+      "title": "From The Beginning Until Now",
+      "composer": "겨울연가 OST",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "EVERY BREATH YOU TAKE",
+      "id": "every-breath-you-take",
+      "title": "EVERY BREATH YOU TAKE",
+      "composer": "Sting",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Je te laisserai des mots",
+      "id": "je-te-laisserai-des-mots",
+      "title": "Je te laisserai des mots",
+      "composer": "Patrick Watson",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Tori no uta (short)",
+      "id": "tori-no-uta-short",
+      "title": "Tori no uta (short)",
+      "composer": "'Air' OST",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "星茶会",
+      "id": "piece",
+      "title": "星茶会",
+      "composer": "",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "CZERNY Op.599 No.30",
+      "id": "czerny-op-599-no-30",
+      "title": "CZERNY Op.599 No.30",
+      "composer": "Vuca",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Drowning love - Chasing Kou",
+      "id": "drowning-love-chasing-kou",
+      "title": "Drowning love / Chasing Kou",
+      "composer": "arr. Antonis Paterakis",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Married Life (Theme from Up)",
+      "id": "married-life-theme-from-up",
+      "title": "Married Life (Theme from Up)",
+      "composer": "Disney/Pixar",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Farewell of Slavianka",
+      "id": "farewell-of-slavianka",
+      "title": "Farewell of Slavianka",
+      "composer": "",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Habanera",
+      "id": "habanera",
+      "title": "Habanera",
+      "composer": "Georges Bizet",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "My Love",
+      "id": "my-love",
+      "title": "My Love",
+      "composer": "Westlife",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Piano Sonata No.16 K.545 (3rd Mvt)",
+      "id": "piano-sonata-no-16-k-545-3rd-mvt",
+      "title": "Piano Sonata No.16 K.545 (3rd Mvt)",
+      "composer": "모차르트",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Đông Miên",
+      "id": "ong-mien",
+      "title": "Đông Miên",
+      "composer": "",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Detective Conan Main Theme",
+      "id": "detective-conan-main-theme",
+      "title": "Detective Conan Main Theme",
+      "composer": "Katsuo Ono",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Hungarian Dance No.5 in G Minor",
+      "id": "hungarian-dance-no-5-in-g-minor",
+      "title": "Hungarian Dance No.5 in G Minor",
+      "composer": "브람스",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "sinking town - tentententen",
+      "id": "sinking-town-tentententen",
+      "title": "sinking town / tentententen",
+      "composer": "yoeko kurahashi",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "My Lie (Your Lie in April)",
+      "id": "my-lie-your-lie-in-april",
+      "title": "My Lie (Your Lie in April)",
+      "composer": "Masaru Yokoyama",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "HE'S A PIRATE Easy Version",
+      "id": "he-s-a-pirate-easy-version",
+      "title": "HE'S A PIRATE Easy Version",
+      "composer": "Klaus Badelt",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "L's Theme",
+      "id": "l-s-theme",
+      "title": "L's Theme",
+      "composer": "Death Note",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "From The Start (Beginner Piano Adaptation)",
+      "id": "from-the-start-beginner-piano-adaptation",
+      "title": "From The Start (Beginner Piano Adaptation)",
+      "composer": "Laufey",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Mariage d'amour",
+      "id": "mariage-d-amour",
+      "title": "Mariage d'amour",
+      "composer": "",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "A Time For Us (Romeo & Juliet)",
+      "id": "a-time-for-us-romeo-juliet",
+      "title": "A Time For Us (Romeo & Juliet)",
+      "composer": "Richard Clayderman",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "seasons by wave to earth",
+      "id": "seasons-by-wave-to-earth",
+      "title": "seasons by wave to earth",
+      "composer": "arr. sook",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "NƠI PHÁO HOA RỰC RỠ (Đi Để Trở Về 8)",
+      "id": "noi-phao-hoa-ruc-ro-i-e-tro-ve-8",
+      "title": "NƠI PHÁO HOA RỰC RỠ (Đi Để Trở Về 8)",
+      "composer": "Orange x Hoàng Dũng x Cẩm Vân x Hứa Kim Tuyền",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Wedding March",
+      "id": "wedding-march",
+      "title": "Wedding March",
+      "composer": "Mendelssohn",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Beanie",
+      "id": "beanie-2",
+      "title": "Beanie",
+      "composer": "Chezile",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Flower Dance (C Major Simplified)",
+      "id": "flower-dance-c-major-simplified",
+      "title": "Flower Dance (C Major Simplified)",
+      "composer": "Dj Okawari",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "A Little Story",
+      "id": "a-little-story",
+      "title": "A Little Story",
+      "composer": "Valentin",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "The 5th Melody Of The Night",
+      "id": "the-5th-melody-of-the-night",
+      "title": "The 5th Melody Of The Night",
+      "composer": "Jin Shi",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "A Million Dream",
+      "id": "a-million-dream",
+      "title": "A Million Dream",
+      "composer": "",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Never Be Alone (FNAF 4)",
+      "id": "never-be-alone-fnaf-4",
+      "title": "Never Be Alone (FNAF 4)",
+      "composer": "Shadrow",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Yume to Hazakura",
+      "id": "yume-to-hazakura",
+      "title": "Yume to Hazakura",
+      "composer": "初音ミク",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Komorebi",
+      "id": "komorebi",
+      "title": "Komorebi",
+      "composer": "m-taku",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Right Here Waiting For You",
+      "id": "right-here-waiting-for-you",
+      "title": "Right Here Waiting For You",
+      "composer": "Richard Marx",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "A Little Sweet 有點甜",
+      "id": "a-little-sweet",
+      "title": "A Little Sweet 有點甜",
+      "composer": "Silence Wang",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Farewell Letter 诀别书",
+      "id": "farewell-letter",
+      "title": "Farewell Letter 诀别书",
+      "composer": "arr. TPT",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Radetzky March",
+      "id": "radetzky-march",
+      "title": "Radetzky March",
+      "composer": "Strauss I",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "Hazy Moon",
+      "id": "hazy-moon",
+      "title": "Hazy Moon",
+      "composer": "Astarte_Chrono",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "10 Ngàn Năm",
+      "id": "10-ngan-nam",
+      "title": "10 Ngàn Năm",
+      "composer": "",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "꽃날 Flower Day",
+      "id": "flower-day",
+      "title": "꽃날 Flower Day",
+      "composer": "arr. Camillia Lin",
+      "note": "",
+      "tags": []
+    },
+    {
+      "dir": "_미분류 (batch2)",
+      "id": "unsorted-batch2",
+      "title": "미분류 — 2차 배치",
+      "composer": "곡 배정이 끝나지 않은 페이지 모음",
+      "note": "파일명 pNNN 은 판독 인덱스입니다 (tools/batch2/notes.md 참조)",
+      "tags": [
+        "미분류"
+      ]
     }
   ],
   "incomplete": {
